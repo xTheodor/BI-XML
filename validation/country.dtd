@@ -1,0 +1,42 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT country (introduction,section+)>
+<!ATTLIST country
+  id CDATA #REQUIRED
+  from CDATA #REQUIRED>
+
+<!ELEMENT introduction (name,background)>
+
+<!ELEMENT section (detail|nested-detail|list-detail|histogram)+>
+<!ATTLIST section
+  name CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT background (paragraph)+>
+
+<!ELEMENT paragraph (#PCDATA)>
+
+<!ELEMENT detail (#PCDATA)>
+<!ATTLIST detail
+  name CDATA #REQUIRED>
+
+<!ELEMENT nested-detail (detail|list-detail)+>
+<!ATTLIST nested-detail
+  name CDATA #REQUIRED>
+
+<!ELEMENT list-detail (list-item)+>
+<!ATTLIST list-detail
+  name CDATA #REQUIRED>
+
+<!ELEMENT list-item (#PCDATA)>
+
+<!ELEMENT histogram (entry)+>
+<!ATTLIST histogram
+  name CDATA #REQUIRED
+  unit CDATA #IMPLIED>
+
+<!ELEMENT entry (#PCDATA)>
+<!ATTLIST entry
+  from-age CDATA #IMPLIED
+  to-age CDATA #IMPLIED>
