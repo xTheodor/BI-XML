@@ -13,18 +13,18 @@
         <detail name="Climate">varies from tropical in south to cool temperate in north</detail>
         <detail name="Terrain">mostly rugged and mountainous</detail>
         <list-detail name="Natural resources">
-            <list-item>negligible mineral resources</list-item> 
-            <list-item>fish</list-item>  
-            <list-item>note</list-item>  
-            <list-item>with virtually no natural energy resources</list-item> 
-            <list-item>Japan is the world's largest importer of coal and liquefied natural gas</list-item> 
-            <list-item>as well as the second largest importer of oil</list-item> 
+            <list-item>negligible mineral resources</list-item>
+            <list-item>fish</list-item>
+            <list-item>note</list-item>
+            <list-item>with virtually no natural energy resources</list-item>
+            <list-item>Japan is the world's largest importer of coal and liquefied natural gas</list-item>
+            <list-item>as well as the second largest importer of oil</list-item>
         </list-detail>
         <detail name="Irrigated land">24,690 sq km (2012)</detail>
         <list-detail name="Natural hazards">
-            <list-deatil>many dormant and some active volcanoes</list-deatil> 
-            <list-deatil>about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year</list-deatil> 
-            <list-deatil>tsunamis</list-deatil> 
+            <list-deatil>many dormant and some active volcanoes</list-deatil>
+            <list-deatil>about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year</list-deatil>
+            <list-deatil>tsunamis</list-deatil>
             <list-deatil>typhoons</list-deatil>
         </list-detail>
         <list-detail name="Current environment issues">
@@ -52,10 +52,10 @@
             <detail name="contiguous zone">24nm</detail>
         </nested-detail>
         <nested-detail name="Land use">
-            <detail name="agricultural land">12.5% (2011 est.)</detail> 
+            <detail name="agricultural land">12.5% (2011 est.)</detail>
             <detail name="arable land">11.7% (2011 est.) / permanent crops: 0.8% (2011 est.) / permanent pasture: 0% (2011 est.)</detail>
-            <detail name="forest"> 68.5% (2011 est.)</detail> 
-            <detail name="other">19% (2011 est.)</detail> 
+            <detail name="forest">68.5% (2011 est.)</detail>
+            <detail name="other">19% (2011 est.)</detail>
         </nested-detail>
         <nested-detail name="Environment international agreements">
             <list-detail name="party to">
@@ -86,230 +86,451 @@
             <detail name="lowest point">Hachiro-gata -4 m</detail>
             <detail name="highest point">Mount Fuji 3,776 m</detail>
         </nested-detail>
-    </section>  
+    </section>
     <section name="People and society">
         <detail name="Population">125,507,472 (July 2020 est.)</detail>
         <list-detail name="Ethnic groups">
-            <list-item></list-item>
+            <list-item>Japanese 98.1%</list-item>
+            <list-item>Chinese 0.5%</list-item>
+            <list-item>Korean 0.4%</list-item>
+            <list-item>other 1% (includes Filipino, Vietnamese, and Brazilian) (2016 est.)</list-item>
         </list-detail>
         <list-detail name="Languages">
             <list-item>Japanese</list-item>
         </list-detail>
         <detail name="Religions">Shintoism 70.4%, Buddhism 69.8%, Christianity 1.5%, other 6.9% (2015 est.)</detail>
-        <list-detail name="Demographic profile">
-            <list-item></list-item>
-        </list-detail>
-        <detail name="Population growth rate"></detail>
-        <detail name="Birth rate"></detail>
-        <detail name="Death rate"></detail>
-        <detail name="Net migration rate"></detail>
-        <detail name="Population distribution"></detail>
-        <detail name="Mother's mean age at first birth"></detail>
-        <detail name="Maternal mortality rate"></detail>
-        <detail name="Total fertility rate"></detail>
-        <detail name="Contraceptive prevalence rate"></detail>
-        <detail name="Health expenditures"></detail>
-        <detail name="Physicians density"></detail>
-        <detail name="Hospital bed density"></detail>
-        <detail name="Total fertility rate"></detail>
+        <detail name="Population growth rate">-0.27% (2020 est.)</detail>
+        <detail name="Birth rate">7.3 births/1,000 population (2020 est.)</detail>
+        <detail name="Death rate">10.2 deaths/1,000 population (2020 est.)</detail>
+        <detail name="Net migration rate">0 migrant(s)/1,000 population (2020 est.)</detail>
+        <detail name="Population distribution">all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)</detail>
+        <detail name="Mother's mean age at first birth">30.7 years (2015 est.)</detail>
+        <detail name="Maternal mortality rate">5 deaths/100,000 live births (2017 est.)</detail>
+        <detail name="Total fertility rate">1.43 children born/woman (2020 est.)</detail>
+        <detail name="Contraceptive prevalence rate">39.8% (2015)</detail>
+        <detail name="Health expenditures">10.9% (2017)</detail>
+        <detail name="Physicians density">2.41 physicians/1,000 population (2016)</detail>
+        <detail name="Hospital bed density">13.1 beds/1,000 population (2017)</detail>
         <list-detail name="Urban areas">
-            <list-item></list-item>
+            <list-item>37.393 million TOKYO (capital)</list-item>
+            <list-item>19.165 million Osaka</list-item>
+            <list-item>9.552 million Nagoya</list-item>
+            <list-item>5.29 million Kitakyushu-Fukuoka</list-item>
+            <list-item>2.922 million Shizuoka-Hamamatsu</list-item>
+            <list-item>2.670 million Sapporo (2020)</list-item>
         </list-detail>
-        <detail name="HIV/AIDS - adult prevalence rate"></detail>
-        <detail name="HIV/AIDS - people living with HIV/AIDS"></detail>
-        <detail name="HIV/AIDS - deaths"></detail>
-        <detail name="Obesity - adult prevalence rate"></detail>
-        <detail name="Children under the age of 5 years underweight"></detail>
-        <detail name="Education expenditures"></detail>
+        <detail name="HIV/AIDS - adult prevalence rate">0.1% (2018 est.)</detail>
+        <detail name="HIV/AIDS - people living with HIV/AIDS">30,000 (2018 est.)</detail>
+        <detail name="HIV/AIDS - deaths">200 (2017 est.)</detail>
+        <detail name="Obesity - adult prevalence rate">4.3% (2016)</detail>
+        <detail name="Children under the age of 5 years underweight">3.4% (2010)</detail>
+        <detail name="Education expenditures">3.5% of GDP (2016)</detail>
         <nested-detail name="Nationality">
             <detail name="noun">Japanese (singular and plural)</detail>
             <detail name="adjective">Japanese</detail>
         </nested-detail>
         <nested-detail name="Dependency ratios">
-            <detail name="total dependency ratio"></detail>
-            <detail name="youth dependency ratio"></detail>
-            <detail name="elderly dependency ratio"></detail>
+            <detail name="total dependency ratio">69</detail>
+            <detail name="youth dependency ratio">21</detail>
+            <detail name="elderly dependency ratio">48</detail>
         </nested-detail>
         <nested-detail name="Median age">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">48.6 years</detail>
+            <detail name="male">47.2 years</detail>
+            <detail name="female">50 years (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Urbanization">
-
+            <detail name="urban population">91.8% of total population (2020)</detail>
+            <detail name="rate of urbanization">-0.14% annual rate of change (2015-20 est.)</detail>
         </nested-detail>
         <nested-detail name="Infant mortality rate">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">1.9 deaths/1,000 live births</detail>
+            <detail name="male">2.1 deaths/1,000 live births</detail>
+            <detail name="female">1.7 deaths/1,000 live births (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Life expectancy at birth">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">86 years</detail>
+            <detail name="male">82.7 years</detail>
+            <detail name="female">89.5 years (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Major infectious diseases">
-
-        </nested-detail>
-        <nested-detail name="Literacy">
-
+            <detail name="disease"> Covid-19 </detail>
+            <detail name="note">a new coronavirus is causing sustained community transmission of respiratory illness (COVID-19) in Japan; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 October 2020, Japan has reported 93,480 confirmed cases of COVID19 with 1,676 deaths; the US Department of State has issued a Travel Advisory recommending increased caution in Japan due to the recent outbreak of COVID-19; the Centers for Disease Control and Prevention has recommended postponing nonessential international travel at this time and published additional guidance at https://wwwnc.cdc.gov/travel/notices/alert/ ; on 25 May 2020, Japan ended its state of emergency</detail>
         </nested-detail>
         <nested-detail name="School life expectancy (primary to tertiary education)">
-
+            <detail name="total">15 years</detail>
+            <detail name="male">15 years</detail>
+            <detail name="female">15 years</detail>
         </nested-detail>
         <nested-detail name="Unemployment, youth ages 15-24">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">3.6%</detail>
+            <detail name="male">4.1%</detail>
+            <detail name="female">3.1%</detail>
         </nested-detail>
         <histogram name="Age structure" unit="%">
-            <entry from_age="" to_age=""></entry>
-            <entry from_age="" to_age=""></entry>
-            <entry from_age="" to_age=""></entry>
-            <entry from_age="" to_age=""></entry>
-            <entry from_age="" to_age=""></entry>
+            <entry from_age="0" to_age="14">12.49% (male 8,047,183/female 7,623,767)</entry>
+            <entry from_age="15" to_age="24">9.47% (male 6,254,352/female 5,635,377)</entry>
+            <entry from_age="25" to_age="54">36.8% (male 22,867,385/female 23,317,140)</entry>
+            <entry from_age="55" to_age="64">12.06% (male 7,564,067/female 7,570,732)</entry>
+            <entry from_age="65">29.18% (male 16,034,973/female 20,592,496) (2020 est.)</entry>
         </histogram>
         <histogram name="Sex ratio">
-            <entry from_age="" to_age=""></entry>
-            <entry from_age="" to_age=""></entry>
-            <entry from_age="" to_age=""></entry>
-            <entry from_age="" to_age=""></entry>
-            <entry from_age="" to_age=""></entry>
-            <entry from_age=""></entry>
-            <entry></entry>
+            <entry from_age="0" to_age="0">1.06 male(s)/female</entry>
+            <entry from_age="0" to_age="14">1.06 male(s)/female</entry>
+            <entry from_age="15" to_age="24">1.11 male(s)/female</entry>
+            <entry from_age="25" to_age="54">0.98 male(s)/female</entry>
+            <entry from_age="55" to_age="64">1 male(s)/female</entry>
+            <entry from_age="65">0.78 male(s)/female</entry>
+            <entry>0.94 male(s)/female (2020 est.)</entry>
         </histogram>
     </section>
     <section name="Government">
-        <detail name="Dependency status"></detail>
-        <detail name="Government type"></detail>
+        <detail name="Government type">parliamentary constitutional monarchy</detail>
         <list-detail name="Administrative divisions">
-            <list-item></list-item>
+            <list-item>Aichi</list-item>
+            <list-item>Akita</list-item>
+            <list-item>Aomori</list-item>
+            <list-item>Chiba</list-item>
+            <list-item>Ehime</list-item>
+            <list-item>Fukui</list-item>
+            <list-item>Fukuoka</list-item>
+            <list-item>Fukushima</list-item>
+            <list-item>Gifu</list-item>
+            <list-item>Gunma</list-item>
+            <list-item>Hiroshima</list-item>
+            <list-item>Hokkaido</list-item>
+            <list-item>Hyogo</list-item>
+            <list-item>Ibaraki</list-item>
+            <list-item>Ishikawa</list-item>
+            <list-item>Iwate</list-item>
+            <list-item>Kagawa</list-item>
+            <list-item>Kagoshima</list-item>
+            <list-item>Kanagawa</list-item>
+            <list-item>Kochi</list-item>
+            <list-item>Kumamoto</list-item>
+            <list-item>Kyoto</list-item>
+            <list-item>Mie</list-item>
+            <list-item>Miyagi</list-item>
+            <list-item>Miyazaki</list-item>
+            <list-item>Nagano</list-item>
+            <list-item>Nagasaki</list-item>
+            <list-item>Nara</list-item>
+            <list-item>Niigata</list-item>
+            <list-item>Oita</list-item>
+            <list-item>Okayama</list-item>
+            <list-item>Okinawa</list-item>
+            <list-item>Osaka</list-item>
+            <list-item>Saga</list-item>
+            <list-item>Saitama</list-item>
+            <list-item>Shiga</list-item>
+            <list-item>Shimane</list-item>
+            <list-item>Shizuoka</list-item>
+            <list-item>Tochigi</list-item>
+            <list-item>Tokushima</list-item>
+            <list-item>Tokyo</list-item>
+            <list-item>Tottori</list-item>
+            <list-item>Toyama</list-item>
+            <list-item>Wakayama</list-item>
+            <list-item>Yamagata</list-item>
+            <list-item>Yamaguchi</list-item>
+            <list-item>Yamanashi</list-item>
         </list-detail>
         <list-detail name="Independence">
             <list-item>3 May 1947 (current constitution adopted as amendment to Meiji Constitution)</list-item>
             <list-item>notable earlier dates: 11 February 660 B.C. (mythological date of the founding of the nation by Emperor JIMMU)</list-item>
             <list-item>29 November 1890 (Meiji Constitution provides for constitutional monarchy)</list-item>
         </list-detail>
-        <detail name="National holiday"></detail>
-        <detail name="Legal system"></detail>
-        <detail name="International law organization participation"></detail>
+        <detail name="National holiday">Birthday of Emperor NARUHITO, 23 February (1960)</detail>
+        <detail name="Legal system">civil law system based on German model; system also reflects Anglo-American influence and Japanese traditions; judicial review of legislative acts in the Supreme Court</detail>
+        <detail name="International law organization participation">accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction</detail>
         <detail name="Suffrage">18 years of age; universal</detail>
         <list-detail name="International organization participation">
-            <list-item></list-item>
+            <list-item name="ADB"></list-item>
+            <list-item name="AfDB (nonregional member)"></list-item>
+            <list-item name="APEC"></list-item>
+            <list-item name="Arctic Council (observer)"></list-item>
+            <list-item name="ARF"></list-item>
+            <list-item name="ASEAN (dialogue partner)"></list-item>
+            <list-item name="Australia Group"></list-item>
+            <list-item name="BIS"></list-item>
+            <list-item name="CD"></list-item>
+            <list-item name="CE (observer)"></list-item>
+            <list-item name="CERN (observer)"></list-item>
+            <list-item name="CICA (observer)"></list-item>
+            <list-item name="CP"></list-item>
+            <list-item name="CPLP (associate)"></list-item>
+            <list-item name="EAS"></list-item>
+            <list-item name="EBRD"></list-item>
+            <list-item name="EITI (implementing country)"></list-item>
+            <list-item name="FAO"></list-item>
+            <list-item name="FATF"></list-item>
+            <list-item name="G-5"></list-item>
+            <list-item name="G-7"></list-item>
+            <list-item name="G-8"></list-item>
+            <list-item name="G-10"></list-item>
+            <list-item name="G-20"></list-item>
+            <list-item name="IADB"></list-item>
+            <list-item name="IAEA"></list-item>
+            <list-item name="IBRD"></list-item>
+            <list-item name="ICAO"></list-item>
+            <list-item name="ICC (national committees)"></list-item>
+            <list-item name="ICCt"></list-item>
+            <list-item name="ICRM"></list-item>
+            <list-item name="IDA"></list-item>
+            <list-item name="IEA"></list-item>
+            <list-item name="IFAD"></list-item>
+            <list-item name="IFC"></list-item>
+            <list-item name="IFRCS"></list-item>
+            <list-item name="IGAD (partners)"></list-item>
+            <list-item name="IHO"></list-item>
+            <list-item name="ILO"></list-item>
+            <list-item name="IMF"></list-item>
+            <list-item name="IMO"></list-item>
+            <list-item name="IMSO"></list-item>
+            <list-item name="Interpol"></list-item>
+            <list-item name="IOC"></list-item>
+            <list-item name="IOM"></list-item>
+            <list-item name="IPU"></list-item>
+            <list-item name="ISO"></list-item>
+            <list-item name="ITSO"></list-item>
+            <list-item name="ITU"></list-item>
+            <list-item name="ITUC (NGOs)"></list-item>
+            <list-item name="LAIA (observer)"></list-item>
+            <list-item name="MIGA"></list-item>
+            <list-item name="NEA"></list-item>
+            <list-item name="NSG"></list-item>
+            <list-item name="OAS (observer)"></list-item>
+            <list-item name="OECD"></list-item>
+            <list-item name="OPCW"></list-item>
+            <list-item name="OSCE (partner)"></list-item>
+            <list-item name="Pacific Alliance (observer)"></list-item>
+            <list-item name="Paris Club"></list-item>
+            <list-item name="PCA"></list-item>
+            <list-item name="PIF (partner)"></list-item>
+            <list-item name="SAARC (observer)"></list-item>
+            <list-item name="SELEC (observer)"></list-item>
+            <list-item name="SICA (observer)"></list-item>
+            <list-item name="UN"></list-item>
+            <list-item name="UNCTAD"></list-item>
+            <list-item name="UNESCO"></list-item>
+            <list-item name="UNHCR"></list-item>
+            <list-item name="UNIDO"></list-item>
+            <list-item name="UNMISS"></list-item>
+            <list-item name="UNRWA"></list-item>
+            <list-item name="UNWTO"></list-item>
+            <list-item name="UPU"></list-item>
+            <list-item name="WCO"></list-item>
+            <list-item name="WFTU (NGOs)"></list-item>
+            <list-item name="WHO"></list-item>
+            <list-item name="WIPO"></list-item>
+            <list-item name="WMO"></list-item>
+            <list-item name="WTO"></list-item>
+            <list-item name="ZC"></list-item>
         </list-detail>
-        <detail name="Flag description"></detail>
+        <detail name="Flag description">white with a large red disk (representing the sun without rays) in the center</detail>
         <list-detail name="National symbol(s)">
-            <list-item></list-item>
+            <list-item>red sun disc</list-item>
+            <list-item>chrysanthemum</list-item>
+            <list-item>national colors: red, white</list-item>
         </list-detail>
-        <nested-detail name="Country name"></nested-detail>
-        <nested-detail name="Capital"></nested-detail>
-        <nested-detail name="Constitution"></nested-detail>
-        <nested-detail name="Citizenship"></nested-detail>
-        <nested-detail name="Executive branch"></nested-detail>
-        <nested-detail name="Legislative branch"></nested-detail>
-        <nested-detail name="Judicial branch"></nested-detail>
-        <nested-detail name="National anthem"></nested-detail>
+        <nested-detail name="Country name">
+            <detail name="conventional long form">none</detail>
+            <detail name="conventional short form">Japan</detail>
+            <detail name="local long form">Nihon-koku/Nippon-koku</detail>
+            <detail name="local short form">Nihon/Nippon</detail>
+            <detail name="etymology">the English word for Japan comes via the Chinese name for the country "Cipangu"; both Nihon and Nippon mean "where the sun originates" and are frequently translated as "Land of the Rising Sun"</detail>
+        </nested-detail>
+        <nested-detail name="Capital">
+            <detail name="name">Tokyo</detail>
+            <detail name="geographic coordinates">35 41 N, 139 45 E</detail>
+            <detail name="time difference">UTC+9 (14 hours ahead of Washington, DC, during Standard Time)</detail>
+            <detail name="etymology">originally known as Edo, meaning "estuary" in Japanese, the name was changed to Tokyo, meaning "eastern capital," in 1868</detail>
+        </nested-detail>
+        <nested-detail name="Constitution">
+            <detail name="history"> previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947</detail>
+            <detail name="amendments"> proposed by the Diet; passage requires approval by at least two-thirds majority of both houses of the Diet and approval by majority in a referendum; note - the constitution has not been amended since its enactment in 1947</detail>
+        </nested-detail>
+        <nested-detail name="Citizenship">
+            <detail name="citizenship by birth"> no</detail>
+            <detail name="citizenship by descent only"> at least one parent must be a citizen of Japan</detail>
+            <detail name="dual citizenship recognized"> no</detail>
+            <detail name="residency requirement for naturalization"> 5 years</detail>
+        </nested-detail>
+        <nested-detail name="Executive branch">
+            <detail name="chief of state"> Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019</detail>
+            <detail name="head of government"> Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012)</detail>
+            <detail name="cabinet"> Cabinet appointed by the prime minister</detail>
+            <detail name="elections/appointments"> the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister</detail>
+        </nested-detail>
+        <nested-detail name="Legislative branch">
+            <detail name="description"> 
+                bicameral Diet or Kokkai consists of:
+                House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)
+                House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)
+            </detail>
+            <detail name="elections">
+                House of Councillors - last held on 10 July 2016 (next to be held in July 2019)
+                House of Representatives - last held on 22 October 2017 (next to be held by 21 October 2021)
+            </detail>
+            <detail name="election results">
+                House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5
+                House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, Party of Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independent 22
+            </detail>
+            <detail name="note"> the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts</detail>
+        </nested-detail>
+        <nested-detail name="Judicial branch">
+            <detail name="highest courts"> Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues</detail>
+            <detail name="judge selection and term of office"> Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward</detail>
+            <detail name="subordinate courts"> 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)</detail>
+        </nested-detail>
+        <nested-detail name="National anthem">
+            <detail name="name"> "Kimigayo" (The Emperor"s Reign)</detail>
+            <detail name="lyrics/music"> unknown/Hiromori HAYASHI</detail>
+            <detail name="note"> adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor</detail>
+        </nested-detail>
     </section>
     <section name="Economy">
-        <list-detail name="Overview">
-            <list-item></list-item>
+        <detail name="Overview">
+            Over the past 70 years, government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (slightly less than 1% of GDP) have helped Japan develop an advanced economy. Two notable characteristics of the post-World War II economy were the close interlocking structures of manufacturers, suppliers, and distributors, known as keiretsu, and the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features have significantly eroded under the dual pressures of global competition and domestic demographic change.
+
+            Measured on a purchasing power parity basis that adjusts for price differences, Japan in 2017 stood as the fourth-largest economy in the world after first-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. For three postwar decades, overall real economic growth was impressive - averaging 10% in the 1960s, 5% in the 1970s, and 4% in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the aftereffects of inefficient investment and the collapse of an asset price bubble in the late 1980s, which resulted in several years of economic stagnation as firms sought to reduce excess debt, capital, and labor. Modest economic growth continued after 2000, but the economy has fallen into recession four times since 2008.
+            
+            Japan enjoyed an uptick in growth since 2013, supported by Prime Minister Shinzo ABE’s "Three Arrows" economic revitalization agenda - dubbed "Abenomics" - of monetary easing, "flexible" fiscal policy, and structural reform. Led by the Bank of Japan’s aggressive monetary easing, Japan is making modest progress in ending deflation, but demographic decline – a low birthrate and an aging, shrinking population – poses a major long-term challenge for the economy. The government currently faces the quandary of balancing its efforts to stimulate growth and institute economic reforms with the need to address its sizable public debt, which stands at 235% of GDP. To help raise government revenue, Japan adopted legislation in 2012 to gradually raise the consumption tax rate. However, the first such increase, in April 2014, led to a sharp contraction, so Prime Minister ABE has twice postponed the next increase, which is now scheduled for October 2019. Structural reforms to unlock productivity are seen as central to strengthening the economy in the long-run.
+            
+            Scarce in critical natural resources, Japan has long been dependent on imported energy and raw materials. After the complete shutdown of Japan’s nuclear reactors following the earthquake and tsunami disaster in 2011, Japan's industrial sector has become even more dependent than before on imported fossil fuels. However, ABE’s government is seeking to restart nuclear power plants that meet strict new safety standards and is emphasizing nuclear energy’s importance as a base-load electricity source. In August 2015, Japan successfully restarted one nuclear reactor at the Sendai Nuclear Power Plant in Kagoshima prefecture, and several other reactors around the country have since resumed operations; however, opposition from local governments has delayed several more restarts that remain pending. Reforms of the electricity and gas sectors, including full liberalization of Japan’s energy market in April 2016 and gas market in April 2017, constitute an important part of Prime Minister Abe’s economic program.
+            
+            Under the Abe Administration, Japan’s government sought to open the country’s economy to greater foreign competition and create new export opportunities for Japanese businesses, including by joining 11 trading partners in the Trans-Pacific Partnership (TPP). Japan became the first country to ratify the TPP in December 2016, but the United States signaled its withdrawal from the agreement in January 2017. In November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). Japan also reached agreement with the European Union on an Economic Partnership Agreement in July 2017, and is likely seek to ratify both agreements in the Diet this year.
+        </detail>>
+        <detail name="GDP (purchasing power parity)">$5.443 trillion</detail>
+        <detail name="GDP (official exchange rate)">$4.873 trillion</detail>
+        <detail name="GDP per capita">$42,900</detail>
+        <detail name="Gross national saving">28% of GDP</detail>
+        <list-detail name="Industries">
+            <list-item>among world's largest and most technologically advanced producers of motor vehicles</list-item>
+            <list-item>electronic equipment</list-item>
+            <list-item>machine tools</list-item>
+            <list-item>steel and nonferrous metals</list-item>
+            <list-item>ships</list-item>
+            <list-item>chemicals</list-item>
+            <list-item>textiles</list-item>
+            <list-item>processed foods</list-item>
         </list-detail>
-        <detail name="GDP (purchasing power parity)"></detail>
-        <detail name="GDP (official exchange rate)"></detail>
-        <list-detail name="GDP per capita">
-            <list-item></list-item>
-        </list-detail>
-        <detail name="Gross national saving"></detail>
-        <list-detail name="Agricultural products">
-            <list-item></list-item>
-        </list-detail>
-        <detail name="Industries"></detail>
-        <detail name="Industrial production growth rate"></detail>
-        <detail name="Labor force"></detail>
-        <detail name="Unemployment rate"></detail>
-        <detail name="Population below poverty line"></detail>
-        <detail name="Distribution of family income - Gini index"></detail>
-        <detail name="Taxes and other revenues"></detail>
-        <detail name="Budget surplus (+) or deficit (-)"></detail>
-        <detail name="Public debt"></detail>
-        <detail name="Fiscal year"></detail>
-        <detail name="Inflation rate (consumer prices)"></detail>
-        <detail name="Central bank discount rate"></detail>
-        <detail name="Commercial bank prime lending rate"></detail>
-        <detail name="Stock of narrow money"></detail>
-        <detail name="Stock of broad money"></detail>
-        <detail name="Stock of domestic credit"></detail>
-        <detail name="Market value of publicly traded shares"></detail>
-        <detail name="Current account balance"></detail>
-        <detail name="Exports"></detail>
+        <detail name="Industrial production growth rate">1.4%</detail>
+        <detail name="Labor force">65.01 million</detail>
+        <detail name="Unemployment rate">2.9%</detail>
+        <detail name="Population below poverty line">16.1%</detail>
+        <detail name="Taxes and other revenues">35.2%</detail>
+        <detail name="Budget surplus (+) or deficit (-)">-3.5% (of GDP)</detail>
+        <detail name="Public debt">237.6% of GDP</detail>
+        <detail name="Fiscal year">1 April - 31 March</detail>
+        <detail name="Inflation rate (consumer prices)">0.5%</detail>
+        <detail name="Exports">$196.1 billion</detail>
         <list-detail name="Export commodities">
-            <list-item></list-item>
+            <list-item>14.9 motor vehicles</list-item>
+            <list-item>5.4 iron and steel products</list-item>
+            <list-item>5 semiconductors</list-item>
+            <list-item>4.8 auto parts</list-item>
+            <list-item>3.5 power generating machinery</list-item>
+            <list-item>3.3 plastic materials (2014 est.)</list-item>
         </list-detail>
         <list-detail name="Export partners">
-            <list-item></list-item>
+            <list-item>US 19.4%</list-item>
+            <list-item>China 19%</list-item>
+            <list-item>South Korea 7.6%</list-item>
+            <list-item>Hong Kong 5.1%</list-item>
+            <list-item>Thailand 4.2% (2017)</list-item>
         </list-detail>
-        <detail name="Imports"></detail>
+        <detail name="Imports">$644.7 billion</detail>
         <list-detail name="Import commodities">
-            <list-item></list-item>
+            <list-item>16.1 petroleum</list-item>
+            <list-item>9.1 liquid natural gas</list-item>
+            <list-item>3.8 clothing</list-item>
+            <list-item>3.3 semiconductors</list-item>
+            <list-item>2.4 coal</list-item>
+            <list-item>1.4 audio and visual apparatus (2014 est.)</list-item>
         </list-detail>
         <list-detail name="Import partners">
-            <list-item></list-item>
+            <list-item>China 24.5%</list-item>
+            <list-item>US 11%</list-item>
+            <list-item>Australia 5.8%</list-item>
+            <list-item>South Korea 4.2%</list-item>
+            <list-item>Saudi Arabia 4.1% (2017)</list-item>
         </list-detail>
-        <detail name="Reserves of foreign exchange and gold"></detail>
-        <detail name="Debt - external"></detail>
+        <detail name="Reserves of foreign exchange and gold">$1.264 trillion</detail>
+        <detail name="Debt - external">$3.24 trillion</detail>
         <detail name="Stock of direct foreign investment - at home"></detail>
         <detail name="Stock of direct foreign investment - abroad"></detail>
-        <nested-detail name="GDP - composition, by end use"></nested-detail>
-        <nested-detail name="GDP - composition, by sector of origin:"></nested-detail>
-        <nested-detail name="Labor force - by occupation"></nested-detail>
-        <nested-detail name="Household income or consumption by percentage share"></nested-detail>
-        <nested-detail name="Budget"></nested-detail>
+        <nested-detail name="GDP - composition, by end use">
+            <detail name="household consumption">55.5% (2017 est.)</detail>
+            <detail name="government consumption">19.6% (2017 est.)</detail>
+            <detail name="investment in fixed capital">24% (2017 est.)</detail>
+            <detail name="investment in inventories">0% (2017 est.)</detail>
+            <detail name="exports of goods and services">17.7% (2017 est.)</detail>
+            <detail name="imports of goods and services">-16.8% (2017 est.)</detail>
+        </nested-detail>
+        <nested-detail name="GDP - composition, by sector of origin:">
+            <detail name="agriculture">1.1% (2017 est.)</detail>
+            <detail name="industry">30.1% (2017 est.)</detail>
+            <detail name="services">68.7% (2017 est.)</detail>
+        </nested-detail>
+        <nested-detail name="Labor force - by occupation">
+            <detail name="agriculture">2.9%</detail>
+            <detail name="industry">26.2%</detail>
+            <detail name="services">70.9% (February 2015 est.)</detail>
+        </nested-detail>
+        <nested-detail name="Household income or consumption by percentage share">
+            <detail name="lowest 10%">2.7%</detail>
+            <detail name="highest 10%">24.8% (2008)</detail>
+        </nested-detail>
+        <nested-detail name="Budget">
+            <detail name="revenues">1.714 trillion (2017 est.)</detail>
+            <detail name="expenditures">1.885 trillion (2017 est.)</detail>
+        </nested-detail>
     </section>
     <section name="Energy">
-        <detail name="Electricity - production"></detail>
-        <detail name="Electricity - consumption"></detail>
-        <detail name="Electricity - exports"></detail>
-        <detail name="Electricity - imports"></detail>
-        <detail name="Electricity - installed generating capacity"></detail>
-        <detail name="Electricity - from fossil fuels"></detail>
-        <detail name="Electricity - from nuclear fuels"></detail>
-        <detail name="Electricity - from hydroelectric plants"></detail>
-        <detail name="Electricity - from other renewable sources"></detail>
-        <detail name="Crude oil - production"></detail>
-        <detail name="Crude oil - exports"></detail>
-        <detail name="Crude oil - imports"></detail>
-        <detail name="Crude oil - proved reserves"></detail>
-        <detail name="Refined petroleum products - production"></detail>
-        <detail name="Refined petroleum products - consumption"></detail>
-        <detail name="Refined petroleum products - exports"></detail>
-        <detail name="Refined petroleum products - imports"></detail>
-        <detail name="Natural gas - production"></detail>
-        <detail name="Natural gas - consumption"></detail>
-        <detail name="Natural gas - exports"></detail>
-        <detail name="Natural gas - imports"></detail>
-        <detail name="Natural gas - proved reserves"></detail>
-        <detail name="Carbon dioxide emissions from consumption of energy"></detail>
-        <nested-detail name="Electricity access"></nested-detail>
+        <detail name="Electricity - access">100%</detail>
+        <detail name="Electricity - production">989.3 billion kWh</detail>
+        <detail name="Electricity - consumption">943.7 billion kWh</detail>
+        <detail name="Electricity - exports">0 kWh</detail>
+        <detail name="Electricity - imports">0 kWh</detail>
+        <detail name="Electricity - installed generating capacity">295.9 million kW</detail>
+        <detail name="Electricity - from fossil fuels">71% of total installed capacity</detail>
+        <detail name="Electricity - from nuclear fuels">1% of total installed capacity</detail>
+        <detail name="Electricity - from hydroelectric plants">8% of total installed capacity</detail>
+        <detail name="Electricity - from other renewable sources">20% of total installed capacity</detail>
+        <detail name="Crude oil - production">3,200 bbl/day</detail>
+        <detail name="Crude oil - exports">0 bbl/day</detail>
+        <detail name="Crude oil - imports">3.208 million bbl/day</detail>
+        <detail name="Crude oil - proved reserves">44.12 million bbl</detail>
+        <detail name="Refined petroleum products - production">3.467 million bbl/day</detail>
+        <detail name="Refined petroleum products - consumption">3.894 million bbl/day</detail>
+        <detail name="Refined petroleum products - exports">370,900 bbl/day</detail>
+        <detail name="Refined petroleum products - imports">1.1 million bbl/da</detail>
+        <detail name="Natural gas - production">3.058 billion cu m</detail>
+        <detail name="Natural gas - consumption">127.2 billion cu m</detail>
+        <detail name="Natural gas - exports">169.9 million cu m</detail>
+        <detail name="Natural gas - imports">116.6 billion cu m</detail>
+        <detail name="Natural gas - proved reserves">20.9 billion cu m</detail>
+        <detail name="Carbon dioxide emissions from consumption of energy">1.268 billion Mt</detail>
     </section>
     <section name="Communications">
-        <detail name="Broadcast media"></detail>
-        <detail name="Internet country code"></detail>
+        <detail name="Broadcast media">a mixture of public and commercial broadcast TV and radio stations; 6 national terrestrial TV networks including 1 public broadcaster; the large number of radio and TV stations available provide a wide range of choices; satellite and cable services provide access to international channels (2019)</detail>
+        <detail name="Internet country code">.jp</detail>
         <nested-detail name="Telephones - fixed lines">
-            <detail name="total subscriptions"></detail>
-            <detail name="subscriptions per 100 inhabitants"></detail>
-        </nested-detail>   
+            <detail name="total subscriptions">63,525,713</detail>
+            <detail name="subscriptions per 100 inhabitants">50</detail>
+        </nested-detail>
         <nested-detail name="Telephones - mobile cellular">
-            <detail name="total"></detail>
-            <detail name="subscriptions per 100 inhabitants"></detail>
-        </nested-detail> 
-        <detail name="Telephone system"></detail>
+            <detail name="total">179,872,794</detail>
+            <detail name="subscriptions per 100 inhabitants">143</detail>
+        </nested-detail>
         <nested-detail name="Internet users">
-            <detail name="total"></detail>
-            <detail name="percent of population"></detail>
-        </nested-detail> 
+            <detail name="total">106,725,643</detail>
+            <detail name="percent of population">84.59%</detail>
+        </nested-detail>
     </section>
     <section name="Transportation">
-        <detail name="Civil aircraft registration country code prefix"></detail>
+        <detail name="Civil aircraft registration country code prefix">JA</detail>
         <detail name="Airports">175</detail>
         <detail name="Heliports">16</detail>
         <list-detail name="Pipelines">
@@ -318,43 +539,77 @@
             <list-item>104 km oil/gas/water</list-item>
         </list-detail>
         <detail name="Waterways">1,770 km (seagoing vessels use inland seas)</detail>
-        <nested-detail name="National air transport system"></nested-detail>
-        <nested-detail name="Airports - with paved runways"></nested-detail>
-        <nested-detail name="Airports - with unpaved runways"></nested-detail>
+        <nested-detail name="National air transport system">
+            <detail name="number of registered air carriers">22 (2020)</detail>
+            <detail name="inventory of registered aircraft operated by air carriers">673</detail>
+            <detail name="annual passenger traffic on registered air carriers">126,387,527 (2018)</detail>
+            <detail name="annual freight traffic on registered air carriers">9,420,660,000 mt-km (2018)</detail>
+        </nested-detail>
+        <nested-detail name="Airports - with paved runways">
+            <detail name="total">142 (2017)</detail>
+            <detail name="over 3,047 m">6 (2017)</detail>
+            <detail name="2,438 to 3,047 m">45 (2017)</detail>
+            <detail name="1,524 to 2,437 m">38 (2017)</detail>
+            <detail name="914 to 1,523 m">28 (2017)</detail>
+            <detail name="under 914 m">25 (2017)</detail>
+        </nested-detail>
+        <nested-detail name="Airports - with unpaved runways">
+            <detail name="total">33 (2013)</detail>
+            <detail name="914 to 1,523 m">5 (2013)</detail>
+            <detail name="under 914 m">28 (2013)</detail>
+        </nested-detail>
         <nested-detail name="Railways">
-            <detail name="total"></detail>
-            <detail name="broad gauge"></detail>
-            <detail name="standard gauge"></detail>
+            <detail name="total">27,311 km (2015)</detail>
+            <detail name="standard gauge">4,800 km 1.435-m gauge (4,800 km electrified) (2015)</detail>
+            <detail name="narrow gauge">124 km 1.372-m gauge (124 km electrified) (2015)</detail>
+            <list-detail name="dual gauge">
+                <list-item>132 km 1.435-1.067-m gauge (132 km electrified) (2015)</list-item>
+                <list-item>22,207 km 1.067-m gauge (15,430 km electrified)</list-item>
+                <list-item>48 km 0.762-m gauge (48 km electrified)</list-item>
+            </list-detail>
         </nested-detail>
         <nested-detail name="Roadways">
-            <detail name="total"></detail>
-            <detail name="paved"></detail>
-            <detail name="unpaved"></detail>
+            <detail name="total">1,218,772 km (2015)</detail>
+            <detail name="paved">992,835 km (includes 8,428 km of expressways) (2015)</detail>
+            <detail name="unpaved">225,937 km (2015)</detail>
         </nested-detail>
         <nested-detail name="Merchant marine">
-            <detail name="total"></detail>
-            <detail name="by type"></detail>
-            <detail name="foreign-owned"></detail>
-            <detail name="registered in other countries"></detail>
+            <detail name="total">5,017</detail>
+            <list-detail name="by type">
+                <list-item>bulk carrier 158</list-item>
+                <list-item>container ship 37</list-item>
+                <list-item>general cargo 1,767</list-item>
+                <list-item>oil tanker 661</list-item>
+                <list-item>other 2394 (2019)</list-item>
+            </list-detail>
         </nested-detail>
-        <nested-detail name="Ports and terminals"></nested-detail>
+        <nested-detail name="Ports and terminals">
+            <list-detail name="major seaport(s)">
+                <list-item>Chiba</list-item>
+                <list-item>Kawasaki</list-item>
+                <list-item>Kobe</list-item>
+                <list-item>Mizushima</list-item>
+                <list-item>Moji</list-item>
+                <list-item>Nagoya</list-item>
+                <list-item>Osaka</list-item>
+                <list-item>Tokyo</list-item>
+                <list-item>Tomakomai</list-item>
+                <list-item>Yokohama</list-item>
+            </list-detail>
+        </nested-detail>
     </section>
     <section name="Military and security">
-        <detail name="Military expenditures"></detail>
+        <detail name="Military expenditures">0.93% of GDP (2019)</detail>
         <list-detail name="Military service age and obligation">
-            <list-item></list-item>
+            <list-item>18 years of age for voluntary military service</list-item>
+            <list-item>no conscription</list-item>
+            <list-item>mandatory retirement at age 53 for senior enlisted personnel and at 62 years for senior service officers (2012)</list-item>
         </list-detail>
-        <detail name="Maritime threats"></detail>
-        <detail name="Military - note"></detail>
     </section>
     <section name="Transnational issues">
-        <list-datail name="Disputes - international">
-            <list-item></list-item>
-        </list-datail>
-        <list-datail name="Illicit drugs">
-            <list-item></list-item>
-        </list-datail>
-        <nested-detail name="Refugees and internally displaced persons"></nested-detail>
-        <nested-detail name="Trafficking in persons"></nested-detail>
+        <detail name="Disputes - international">the sovereignty dispute over the islands of Etorofu, Kunashiri, and Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kuril Islands," occupied by the Soviet Union in 1945, now administered by Russia and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Japan and South Korea claim Liancourt Rocks (Take-shima/Tok-do) occupied by South Korea since 1954; the Japanese-administered Senkaku Islands are also claimed by China and Taiwan</detail>
+        <nested-detail name="Refugees and internally displaced persons">
+            <detail name="stateless persons">709</detail>
+        </nested-detail>
     </section>
 </country>
