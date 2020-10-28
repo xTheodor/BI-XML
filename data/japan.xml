@@ -154,7 +154,7 @@
             <detail name="female">89.5 years (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Major infectious diseases">
-            <detail name="disease"> Covid-19 </detail>
+            <detail name="disease">Covid-19 </detail>
             <detail name="note">a new coronavirus is causing sustained community transmission of respiratory illness (COVID-19) in Japan; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 18 October 2020, Japan has reported 93,480 confirmed cases of COVID19 with 1,676 deaths; the US Department of State has issued a Travel Advisory recommending increased caution in Japan due to the recent outbreak of COVID-19; the Centers for Disease Control and Prevention has recommended postponing nonessential international travel at this time and published additional guidance at https://wwwnc.cdc.gov/travel/notices/alert/ ; on 25 May 2020, Japan ended its state of emergency</detail>
         </nested-detail>
         <nested-detail name="School life expectancy (primary to tertiary education)">
@@ -347,23 +347,23 @@
             <detail name="etymology">originally known as Edo, meaning "estuary" in Japanese, the name was changed to Tokyo, meaning "eastern capital," in 1868</detail>
         </nested-detail>
         <nested-detail name="Constitution">
-            <detail name="history"> previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947</detail>
-            <detail name="amendments"> proposed by the Diet; passage requires approval by at least two-thirds majority of both houses of the Diet and approval by majority in a referendum; note - the constitution has not been amended since its enactment in 1947</detail>
+            <detail name="history">previous 1890; latest approved 6 October 1946, adopted 3 November 1946, effective 3 May 1947</detail>
+            <detail name="amendments">proposed by the Diet; passage requires approval by at least two-thirds majority of both houses of the Diet and approval by majority in a referendum; note - the constitution has not been amended since its enactment in 1947</detail>
         </nested-detail>
         <nested-detail name="Citizenship">
-            <detail name="citizenship by birth"> no</detail>
-            <detail name="citizenship by descent only"> at least one parent must be a citizen of Japan</detail>
-            <detail name="dual citizenship recognized"> no</detail>
-            <detail name="residency requirement for naturalization"> 5 years</detail>
+            <detail name="citizenship by birth">no</detail>
+            <detail name="citizenship by descent only">at least one parent must be a citizen of Japan</detail>
+            <detail name="dual citizenship recognized">no</detail>
+            <detail name="residency requirement for naturalization">5 years</detail>
         </nested-detail>
         <nested-detail name="Executive branch">
-            <detail name="chief of state"> Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019</detail>
-            <detail name="head of government"> Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012)</detail>
-            <detail name="cabinet"> Cabinet appointed by the prime minister</detail>
-            <detail name="elections/appointments"> the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister</detail>
+            <detail name="chief of state">Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019</detail>
+            <detail name="head of government">Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012)</detail>
+            <detail name="cabinet">Cabinet appointed by the prime minister</detail>
+            <detail name="elections/appointments">the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister</detail>
         </nested-detail>
         <nested-detail name="Legislative branch">
-            <detail name="description"> 
+            <detail name="description">
                 bicameral Diet or Kokkai consists of:
                 House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)
                 House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)
@@ -376,17 +376,17 @@
                 House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5
                 House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, Party of Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independent 22
             </detail>
-            <detail name="note"> the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts</detail>
+            <detail name="note">the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts</detail>
         </nested-detail>
         <nested-detail name="Judicial branch">
-            <detail name="highest courts"> Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues</detail>
-            <detail name="judge selection and term of office"> Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward</detail>
-            <detail name="subordinate courts"> 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)</detail>
+            <detail name="highest courts">Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues</detail>
+            <detail name="judge selection and term of office">Supreme Court chief justice designated by the Cabinet and appointed by the monarch; associate justices appointed by the Cabinet and confirmed by the monarch; all justices are reviewed in a popular referendum at the first general election of the House of Representatives following each judge's appointment and every 10 years afterward</detail>
+            <detail name="subordinate courts">8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)</detail>
         </nested-detail>
         <nested-detail name="National anthem">
-            <detail name="name"> "Kimigayo" (The Emperor"s Reign)</detail>
-            <detail name="lyrics/music"> unknown/Hiromori HAYASHI</detail>
-            <detail name="note"> adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor</detail>
+            <detail name="name">"Kimigayo" (The Emperor"s Reign)</detail>
+            <detail name="lyrics/music">unknown/Hiromori HAYASHI</detail>
+            <detail name="note">adopted 1999; unofficial national anthem since 1883; oldest anthem lyrics in the world, dating to the 10th century or earlier; there is some opposition to the anthem because of its association with militarism and worship of the emperor</detail>
         </nested-detail>
     </section>
     <section name="Economy">
