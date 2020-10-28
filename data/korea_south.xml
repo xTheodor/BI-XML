@@ -1,389 +1,567 @@
 <?xml version="1.0" encoding="utf-8"?>
 <country from="https://www.cia.gov/library/publications/the-world-factbook/geos/ks.html" id="korea_south">
     <introduction>
-        <name></name>
+        <name>Korea, South</name>
         <background>
-            <paragraph></paragraph>
+            <paragraph>An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a DPRK invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime, from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979.</paragraph>
+            <paragraph>South Korea held its first free presidential election under a revised democratic constitution in 1987, with former ROK Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine" policy of engagement with North Korea. President PARK Geun-hye, daughter of former ROK President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. South Korea hosted the Winter Olympic and Paralympic Games in February 2018, in which North Korea also participated. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by the North's attacks on a South Korean ship and island in 2010, the exchange of artillery fire across the DMZ in 2015, and multiple nuclear and missile tests in 2016 and 2017. North Korea’s participation in the Winter Olympics, dispatch of a senior delegation to Seoul, and three inter-Korean summits in 2018 appear to have ushered in a temporary period of respite, buoyed by the historic US-DPRK summits in 2018 and 2019.</paragraph>
         </background>
     </introduction>
     <section name="Geography">
-        <detail name="Location"></detail>
-        <detail name="Coordinates"></detail>
-        <detail name="Coastline"></detail>
-        <detail name="Climate"></detail>
-        <detail name="Terrain"></detail>
+        <detail name="Location">Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan and the Yellow Sea</detail>
+        <detail name="Coordinates">37 00 N, 127 30 E</detail>
+        <detail name="Coastline">2,413 km</detail>
+        <detail name="Climate">temperate, with rainfall heavier in summer than winter;
+cold winters</detail>
+        <detail name="Terrain">mostly hills and mountains;
+wide coastal plains in west and south</detail>
         <list-detail name="Natural resources">
-
+            <list-item>coal</list-item>
+            <list-item>tungsten</list-item>
+            <list-item>graphite</list-item>
+            <list-item>molybdenum</list-item>
+            <list-item>lead</list-item>
+            <list-item>hydropower potential</list-item>
         </list-detail>
-        <detail name="Irrigated land"></detail>
+        <detail name="Irrigated land">7,780 sq km (2012)</detail>
         <list-detail name="Natural hazards">
-            
+            <list-item>occasional typhoons bring high winds and floods</list-item>
+            <list-item>low-level seismic activity common in southwest</list-item>
         </list-detail>
         <list-detail name="Current environment issues">
-            
+            <list-item>air pollution in large cities</list-item>
+            <list-item>acid rain</list-item>
+            <list-item>water pollution from the discharge of sewage and industrial effluents</list-item>
+            <list-item>drift net fishing</list-item>
+            <list-item>solid waste disposal</list-item>
+            <list-item>transboundary pollution</list-item>
         </list-detail>
-        <detail name="Population - distribution"></detail>
+        <detail name="Population - distribution">with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated</detail>
         <nested-detail name="Area">
-            <detail name="wotal"></detail>>
-            <detail name="land"></detail>
-            <detail name="water"></detail>
-            <list-detail name="note">
-                
-            </list-detail>
+            <detail name="total">99,720 sq km</detail>
+            <detail name="land">96,920 sq km</detail>
+            <detail name="water">2,800 sq km</detail>
         </nested-detail>
         <nested-detail name="Maritime claims">
-            <detail name="territorial sea"></detail>
-            <detail name="exclusive economic zone"></detail>
-            <detail name="contiguous zone"></detail>
+            <detail name="territorial sea">12 nm; between 3 nm and 12 nm in the Korea Strait</detail>
+            <detail name="exclusive economic zone">200 nm</detail>
+            <detail name="contiguous zone">24 nm</detail>
         </nested-detail>
         <nested-detail name="Land use">
-            <detail name="agricultural land"></detail>
-            <detail name="arable land"></detail>
-            <detail name="forest"></detail>
-            <detail name="other"></detail>
+            <detail name="agricultural land">18.1% (2011 est.)</detail>
+            <detail name="arable land">15.3% (2011 est.) / permanent crops: 2.2% (2011 est.) / permanent pasture: 0.6% (2011 est.)</detail>
+            <detail name="forest">63.9% (2011 est.)</detail>
+            <detail name="other">18% (2011 est.)</detail>
         </nested-detail>
         <nested-detail name="Environment international agreements">
             <list-detail name="party to">
-                
+                <list-item>Antarctic-Environmental Protocol</list-item>
+                <list-item>Antarctic-Marine Living Resources</list-item>
+                <list-item>Antarctic Treaty</list-item>
+                <list-item>Biodiversity</list-item>
+                <list-item>Climate Change</list-item>
+                <list-item>Climate Change-Kyoto Protocol</list-item>
+                <list-item>Desertification</list-item>
+                <list-item>Endangered Species</list-item>
+                <list-item>Environmental Modification</list-item>
+                <list-item>Hazardous Wastes</list-item>
+                <list-item>Law of the Sea</list-item>
+                <list-item>Marine Dumping</list-item>
+                <list-item>Ozone Layer Protection</list-item>
+                <list-item>Ship Pollution</list-item>
+                <list-item>Tropical Timber 83</list-item>
+                <list-item>Tropical Timber 94</list-item>
+                <list-item>Wetlands</list-item>
+                <list-item>Whaling</list-item>
             </list-detail>
-            <detail name="signed, but not ratified"></detail>
+            <detail name="signed, but not ratified">none of the selected agreements</detail>
         </nested-detail>
         <nested-detail name="Elevation">
-            <detail name="mean-elevation"></detail>
-            <detail name="lowest point"></detail>
-            <detail name="highest point"></detail>
+            <detail name="mean-elevation"> 282 m</detail>
+            <detail name="lowest point">Sea of Japan 0 m</detail>
+            <detail name="highest point">Halla-san 1,950 m</detail>
         </nested-detail>
     </section>
     <section name="People and society">
-        <detail name="Population"></detail>
+        <detail name="Population">51,835,110 (July 2020 est.)</detail>
         <list-detail name="Ethnic groups">
-            
+            <list-item>homogeneous</list-item>
         </list-detail>
         <list-detail name="Languages">
-            <list-item></list-item>
+            <list-item>Korean</list-item>
+            <list-item>English (widely taught in elementary, junior high, and high school)</list-item>
         </list-detail>
-        <detail name="Religions"></detail>
-        <detail name="Population growth rate"></detail>
-        <detail name="Birth rate"></detail>
-        <detail name="Death rate"></detail>
-        <detail name="Net migration rate"></detail>
-        <detail name="Population distribution"></detail>
-        <detail name="Mother's mean age at first birth"></detail>
-        <detail name="Maternal mortality rate"></detail>
-        <detail name="Total fertility rate"></detail>
-        <detail name="Contraceptive prevalence rate"></detail>
-        <detail name="Health expenditures"></detail>
-        <detail name="Physicians density"></detail>
-        <detail name="Hospital bed density"></detail>
+        <detail name="Religions">Protestant 19.7%, Buddhist 15.5%, Catholic 7.9%, none 56.9% (2015 est.)</detail>
+        <detail name="Population growth rate">0.39%</detail>
+        <detail name="Birth rate">8.2 births/1,000 population (2020 est.)</detail>
+        <detail name="Death rate">6.8 deaths/1,000 population (2020 est.)</detail>
+        <detail name="Net migration rate">2.3 migrant(s)/1,000 population (2020 est.)</detail>
+        <detail name="Population distribution">with approximately 70% of the country considered mountainous, the country's population is primarily concentrated in the lowland areas, where density is quite high; Gyeonggi Province in the northwest, which surrounds the capital of Seoul and contains the port of Incheon, is the most densely populated province; Gangwon in the northeast is the least populated</detail>
+        <detail name="Mother's mean age at first birth">31 years (2014 est.)</detail>
+        <detail name="Maternal mortality rate">11 deaths/100,000 live births (2017 est.)</detail>
+        <detail name="Total fertility rate">1.29 children born/woman (2020 est.)</detail>
+        <detail name="Contraceptive prevalence rate">79.6% (2015)</detail>
+        <detail name="Health expenditures">7.6% (2017)</detail>
+        <detail name="Physicians density">2.36 physicians/1,000 population (2017)</detail>
+        <detail name="Hospital bed density">12.3 beds/1,000 population (2017)</detail>
         <list-detail name="Urban areas">
-            
+            <list-item>9.963 million SEOUL (capital)</list-item>
+            <list-item>3.465 million Busan</list-item>
+            <list-item>2.801 million Incheon</list-item>
+            <list-item>2.199 million Daegu (Taegu)</list-item>
+            <list-item>1.566 million Daejon (Taejon)</list-item>
+            <list-item>1.522 million Gwangju (Kwangju) (2020)</list-item>
         </list-detail>
-        <detail name="HIV/AIDS - adult prevalence rate"></detail>
-        <detail name="HIV/AIDS - people living with HIV/AIDS"></detail>
-        <detail name="HIV/AIDS - deaths"></detail>
-        <detail name="Obesity - adult prevalence rate"></detail>
-        <detail name="Children under the age of 5 years underweight"></detail>
-        <detail name="Education expenditures"></detail>
+        <detail name="HIV/AIDS - adult prevalence rate">NA</detail>
+        <detail name="HIV/AIDS - people living with HIV/AIDS">NA</detail>
+        <detail name="HIV/AIDS - deaths">NA</detail>
+        <detail name="Obesity - adult prevalence rate">4.7% (2016)</detail>
+        <detail name="Children under the age of 5 years underweight">0.7% (2010)</detail>
+        <detail name="Education expenditures">5.3% of GDP (2015)</detail>
         <nested-detail name="Nationality">
-            <detail name="noun"></detail>
-            <detail name="adjective"></detail>
+            <detail name="noun"> Korean(s)</detail>
+            <detail name="adjective">Korean</detail>
         </nested-detail>
         <nested-detail name="Dependency ratios">
-            <detail name="total dependency ratio"></detail>
-            <detail name="youth dependency ratio"></detail>
-            <detail name="elderly dependency ratio"></detail>
+            <detail name="total dependency ratio">39.5</detail>
+            <detail name="youth dependency ratio">17.5</detail>
+            <detail name="elderly dependency ratio">22</detail>
         </nested-detail>
         <nested-detail name="Median age">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">43.2 years</detail>
+            <detail name="male">41.6 years</detail>
+            <detail name="female">45 years (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Urbanization">
-            <detail name="urban population"></detail>
-            <detail name="rate of urbanization"></detail>
+            <detail name="urban population">81.4% of total population (2020)</detail>
+            <detail name="rate of urbanization">0.3% annual rate of change (2015-20 est.)</detail>
         </nested-detail>
         <nested-detail name="Infant mortality rate">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">3 deaths/1,000 live births</detail>
+            <detail name="male">3.2 deaths/1,000 live births</detail>
+            <detail name="female">2.8 deaths/1,000 live births (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Life expectancy at birth">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">82.6 years</detail>
+            <detail name="male">79.4 years</detail>
+            <detail name="female">85.9 years (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Major infectious diseases">
-            <detail name="disease"></detail>
-            <detail name="note"></detail>
+            <detail name="disease">Covid-19 (2020)</detail>
+            <detail name="note">a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a Travel Advisory recommending avoiding all international travel due to COVID-19; the Centers for Disease Control and Prevention has recommended against all international travel and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/ ; as of 18 October 2020, South Korea has reported 25,333 confirmed cases of COVID19 with 447 deaths</detail>
         </nested-detail>
         <nested-detail name="School life expectancy (primary to tertiary education)">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">17 years</detail>
+            <detail name="male">17 years</detail>
+            <detail name="female">16 years</detail>
         </nested-detail>
         <nested-detail name="Unemployment, youth ages 15-24">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">10.2%</detail>
+            <detail name="male">10.6%</detail>
+            <detail name="female">10%</detail>
         </nested-detail>
         <histogram name="Age structure" unit="%">
-            <entry from_age="0" to_age="14"></entry>
-            <entry from_age="15" to_age="24"></entry>
-            <entry from_age="25" to_age="54"></entry>
-            <entry from_age="55" to_age="64"></entry>
-            <entry from_age="65"></entry>
+            <entry from_age="0" to_age="14">12.77% (male 3,401,815/female 3,219,589)</entry>
+            <entry from_age="15" to_age="24">11.18% (male 3,030,027/female 2,764,860)</entry>
+            <entry from_age="25" to_age="54">44.66% (male 12,043,626/female 11,106,927)</entry>
+            <entry from_age="55" to_age="64">15.47% (male 3,927,496/female 4,089,033)</entry>
+            <entry from_age="65">15.92% (male 3,572,855/female 4,678,882) (2020 est.)</entry>
         </histogram>
         <histogram name="Sex ratio">
-            <entry from_age="0" to_age="0"></entry>
-            <entry from_age="0" to_age="14"></entry>
-            <entry from_age="15" to_age="24"></entry>
-            <entry from_age="25" to_age="54"></entry>
-            <entry from_age="55" to_age="64"></entry>
-            <entry from_age="65"></entry>
-            <entry></entry>
+            <entry from_age="0" to_age="0">1.05 male(s)/female</entry>
+            <entry from_age="0" to_age="14">1.06 male(s)/female</entry>
+            <entry from_age="15" to_age="24">1.1 male(s)/female</entry>
+            <entry from_age="25" to_age="54">1.08 male(s)/female</entry>
+            <entry from_age="55" to_age="64">0.96 male(s)/female</entry>
+            <entry from_age="65">0.76 male(s)/female</entry>
+            <entry>1.01 male(s)/female (2020 est.)</entry>
         </histogram>
     </section>
     <section name="Government">
-        <detail name="Government type"></detail>
+        <detail name="Government type">presidential republic</detail>
         <list-detail name="Administrative divisions">
-            
+            <list-item>Chungbuk (North Chungcheong)</list-item>
+            <list-item>Chungnam (South Chungcheong)</list-item>
+            <list-item>Gangwon</list-item>
+            <list-item>Gyeongbuk (North Gyeongsang)</list-item>
+            <list-item>Gyeonggi</list-item>
+            <list-item>Gyeongnam (South Gyeongsang)</list-item>
+            <list-item>Jeju</list-item>
+            <list-item>Jeonbuk (North Jeolla)</list-item>
+            <list-item>Jeonnam (South Jeolla)</list-item>
         </list-detail>
         <list-detail name="Independence">
-            
+            <list-item>15 August 1945 (from Japan)</list-item>
         </list-detail>
-        <detail name="National holiday"></detail>
-        <detail name="Legal system"></detail>
-        <detail name="International law organization participation"></detail>
-        <detail name="Suffrage"></detail>
+        <detail name="National holiday">Liberation Day, 15 August (1945)</detail>
+        <detail name="Legal system">mixed legal system combining European civil law, Anglo-American law, and Chinese classical thought</detail>
+        <detail name="International law organization participation">has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction</detail>
+        <detail name="Suffrage">18years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election</detail>
         <list-detail name="International organization participation">
-            
-            
+            <list-item>ADB</list-item>
+            <list-item>AfDB (nonregional member)</list-item>
+            <list-item>APEC</list-item>
+            <list-item>Arctic Council (observer)</list-item>
+            <list-item>ARF</list-item>
+            <list-item>ASEAN (dialogue partner)</list-item>
+            <list-item>Australia Group</list-item>
+            <list-item>BIS</list-item>
+            <list-item>CD</list-item>
+            <list-item>CICA</list-item>
+            <list-item>CP</list-item>
+            <list-item>EAS</list-item>
+            <list-item>EBRD</list-item>
+            <list-item>FAO</list-item>
+            <list-item>FATF</list-item>
+            <list-item>G-20</list-item>
+            <list-item>IADB</list-item>
+            <list-item>IAEA</list-item>
+            <list-item>IBRD</list-item>
+            <list-item>ICAO</list-item>
+            <list-item>ICC (national committees)</list-item>
+            <list-item>ICCt</list-item>
+            <list-item>ICRM</list-item>
+            <list-item>IDA</list-item>
+            <list-item>IEA</list-item>
+            <list-item>IFAD</list-item>
+            <list-item>IFC</list-item>
+            <list-item>IFRCS</list-item>
+            <list-item>IHO</list-item>
+            <list-item>ILO</list-item>
+            <list-item>IMF</list-item>
+            <list-item>IMO</list-item>
+            <list-item>IMSO</list-item>
+            <list-item>Interpol</list-item>
+            <list-item>IOC</list-item>
+            <list-item>IOM</list-item>
+            <list-item>IPU</list-item>
+            <list-item>ISO</list-item>
+            <list-item>ITSO</list-item>
+            <list-item>ITU</list-item>
+            <list-item>ITUC (NGOs)</list-item>
+            <list-item>LAIA (observer)</list-item>
+            <list-item>MIGA</list-item>
+            <list-item>MINURSO</list-item>
+            <list-item>MINUSTAH</list-item>
+            <list-item>NEA</list-item>
+            <list-item>NSG</list-item>
+            <list-item>OAS (observer)</list-item>
+            <list-item>OECD</list-item>
+            <list-item>OPCW</list-item>
+            <list-item>OSCE (partner)</list-item>
+            <list-item>Pacific Alliance (observer)</list-item>
+            <list-item>Paris Club (associate)</list-item>
+            <list-item>PCA</list-item>
+            <list-item>PIF (partner)</list-item>
+            <list-item>SAARC (observer)</list-item>
+            <list-item>SICA (observer)</list-item>
+            <list-item>UN</list-item>
+            <list-item>UNAMID</list-item>
+            <list-item>UNCTAD</list-item>
+            <list-item>UNESCO</list-item>
+            <list-item>UNHCR</list-item>
+            <list-item>UNIDO</list-item>
+            <list-item>UNIFIL</list-item>
+            <list-item>UNMIL</list-item>
+            <list-item>UNMISS</list-item>
+            <list-item>UNMOGIP</list-item>
+            <list-item>UNOCI</list-item>
+            <list-item>UNWTO</list-item>
+            <list-item>UPU</list-item>
+            <list-item>WCO</list-item>
+            <list-item>WHO</list-item>
+            <list-item>WIPO</list-item>
+            <list-item>WMO</list-item>
+            <list-item>WTO</list-item>
+            <list-item>ZC</list-item>
         </list-detail>
-        <detail name="Flag description"></detail>
+        <detail name="Flag description">white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field; the South Korean national flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue section represents the negative cosmic forces of the yin, while the red symbolizes the opposite positive forces of the yang; each trigram (kwae) denotes one of the four universal elements, which together express the principle of movement and harmony</detail>
         <list-detail name="National symbol(s)">
-            
+            <list-item>taegeuk (yin yang symbol) Hibiscus syriacus (Rose of Sharon), Siberian tiger</list-item>
+            <list-item>national colors: red, white, blue, black</list-item>
         </list-detail>
         <nested-detail name="Country name">
-            <detail name="conventional long form"></detail>
-            <detail name="conventional short form"></detail>
-            <detail name="local long form"></detail>
-            <detail name="local short form"></detail>
-            <detail name="etymology"></detail>
+            <detail name="conventional long form">Republic of Korea</detail>
+            <detail name="conventional short form">South Korea</detail>
+            <detail name="local long form">Taehan-min'guk</detail>
+            <detail name="local short form">Han'guk</detail>
+            <detail name="etymology">derived from the Chinese name for Goryeo, which was the Korean dynasty that united the peninsula in the 10th century A.D.; the South Korean name "Han'guk" derives from the long form, "Taehan-min'guk," which is itself a derivation from "Daehan-je'guk," which means "the Great Empire of the Han"; "Han" refers to the "Sam'han" or the "Three Han Kingdoms" (Goguryeo, Baekje, and Silla from the Three Kingdoms Era, 1st-7th centuries A.D.)</detail>
         </nested-detail>
         <nested-detail name="Capital">
-            <detail name="name"></detail>
-            <detail name="geographic coordinates"></detail>
-            <detail name="time difference"></detail>
-            <detail name="etymology"></detail>
+            <detail name="name">Seoul</detail>
+            <detail name="geographic coordinates">37 33 N, 126 59 E</detail>
+            <detail name="time difference">UTC+9 (14 hours ahead of Washington, DC, during Standard Time)</detail>
+            <detail name="etymology"> the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla</detail>
         </nested-detail>
         <nested-detail name="Constitution">
-            <detail name="history"></detail>
-            <detail name="amendments"></detail>
+            <detail name="history">several previous; latest passed by National Assembly 12 October 1987, approved in referendum 28 October 1987, effective 25 February 1988</detail>
+            <detail name="amendments">proposed by the president or by majority support of the National Assembly membership; passage requires at least two-thirds majority vote by the Assembly membership, approval in a referendum by more than one half of the votes by more than one half of eligible voters, and promulgation by the president; amended several times, last in 1987</detail>
         </nested-detail>
         <nested-detail name="Citizenship">
-            <detail name="citizenship by birth"></detail>
-            <detail name="citizenship by descent only"></detail>
-            <detail name="dual citizenship recognized"></detail>
-            <detail name="residency requirement for naturalization"></detail>
+            <detail name="citizenship by birth">no</detail>
+            <detail name="citizenship by descent only">at least one parent must be a citizen of South Korea</detail>
+            <detail name="dual citizenship recognized">no</detail>
+            <detail name="residency requirement for naturalization">5 years</detail>
         </nested-detail>
         <nested-detail name="Executive branch">
-            <detail name="chief of state"></detail>
-            <detail name="head of government"></detail>
-            <detail name="cabinet"></detail>
-            <detail name="elections/appointments"></detail>
+            <detail name="chief of state">President MOON Jae-in (since 10 May 2017); the president is both chief of state and head of government; Prime Minister CHUNG Sye-kyun (since 14 January 2020) serves as the principal executive assistant to the president, similar to the role of a vice president</detail>
+            <detail name="head of government">President MOON Jae-in (since 10 May 2017)</detail>
+            <detail name="cabinet">State Council appointed by the president on the prime minister's recommendation</detail>
+            <detail name="elections/appointments">president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 May 2017 (next to be held in March 2022); prime minister appointed by president with consent of National Assembly</detail>
         </nested-detail>
         <nested-detail name="Legislative branch">
             <detail name="description">
-                
+                unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)
             </detail>
             <detail name="elections">
-            
+                last held on 15 April 2020 (next to be held in April 2024)
             </detail>
             <detail name="election results">
-            
+                percent of vote by party - NA; seats by party - DP/TCP 180, UFP/FKP 103, JP 6, ODP 3, PP 3, independent 5; composition - men 249, women 51, percent of women 17%
             </detail>
-            <detail name="note"></detail>
         </nested-detail>
         <nested-detail name="Judicial branch">
-            <detail name="highest courts"></detail>
-            <detail name="judge selection and term of office"></detail>
-            <detail name="subordinate courts"></detail>
+            <detail name="highest courts">Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)</detail>
+            <detail name="judge selection and term of office">Supreme Court chief justice appointed by the president with the consent of the National Assembly; other justices appointed by the president upon the recommendation of the chief justice and consent of the National Assembly; position of the chief justice is a 6-year nonrenewable term; other justices serve 6-year renewable terms; Constitutional Court justices appointed - 3 by the president, 3 by the National Assembly, and 3 by the Supreme Court chief justice; court head serves until retirement at age 70, while other justices serve 6-year renewable terms with mandatory retirement at age 65</detail>
+            <detail name="subordinate courts">High Courts; District Courts; Branch Courts (organized under the District Courts); specialized courts for family and administrative issues</detail>
         </nested-detail>
         <nested-detail name="National anthem">
-            <detail name="name"></detail>
-            <detail name="lyrics/music"></detail>
-            <detail name="note"></detail>
+            <detail name="name">"Aegukga" (Patriotic Song)</detail>
+            <detail name="lyrics/music">YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay</detail>
+            <detail name="note">adopted 1948, well-known by 1910; both North Korea's and South Korea's anthems share the same name and have a vaguely similar melody but have different lyrics</detail>
         </nested-detail>
     </section>
     <section name="Economy">
         <detail name="Overview">
-            
-        </detail>>
-        <detail name="GDP (purchasing power parity)"></detail>
-        <detail name="GDP (official exchange rate)"></detail>
-        <detail name="GDP per capita"></detail>
-        <detail name="Gross national saving"></detail>
+            After emerging from the 1950-53 war with North Korea, South Korea emerged as one of the 20th century’s most remarkable economic success stories, becoming a developed, globally connected, high-technology society within decades. In the 1960s, GDP per capita was comparable with levels in the poorest countries in the world. In 2004, South Korea's GDP surpassed one trillion dollars.
+
+            Beginning in the 1960s under President PARK Chung-hee, the government promoted the import of raw materials and technology, encouraged saving and investment over consumption, kept wages low, and directed resources to export-oriented industries that remain important to the economy to this day. Growth surged under these policies, and frequently reached double-digits in the 1960s and 1970s. Growth gradually moderated in the 1990s as the economy matured, but remained strong enough to propel South Korea into the ranks of the advanced economies of the OECD by 1997. These policies also led to the emergence of family-owned chaebol conglomerates such as Daewoo, Hyundai, and Samsung, which retained their dominant positions even as the government loosened its grip on the economy amid the political changes of the 1980s and 1990s.
+
+            The Asian financial crisis of 1997-98 hit South Korea’s companies hard because of their excessive reliance on short-term borrowing, and GDP ultimately plunged by 7% in 1998. South Korea tackled difficult economic reforms following the crisis, including restructuring some chaebols, increasing labor market flexibility, and opening up to more foreign investment and imports. These steps lead to a relatively rapid economic recovery. South Korea also began expanding its network of free trade agreements to help bolster exports, and has since implemented 16 free trade agreements covering 58 countries—including the United State and China—that collectively cover more than three-quarters of global GDP.
+
+            In 2017, the election of President MOON Jae-in brought a surge in consumer confidence, in part, because of his successful efforts to increase wages and government spending. These factors combined with an uptick in export growth to drive real GDP growth to more than 3%, despite disruptions in South Korea’s trade with China over the deployment of a US missile defense system in South Korea.
+
+            In 2018 and beyond, South Korea will contend with gradually slowing economic growth - in the 2-3% range - not uncommon for advanced economies. This could be partially offset by efforts to address challenges arising from its rapidly aging population, inflexible labor market, continued dominance of the chaebols, and heavy reliance on exports rather than domestic consumption. Socioeconomic problems also persist, and include rising inequality, poverty among the elderly, high youth unemployment, long working hours, low worker productivity, and corruption.
+        </detail>
+        <detail name="GDP (purchasing power parity)">$2.035 trillion (2017 est.)</detail>
+        <detail name="GDP (official exchange rate)">$1.54 trillion (2017 est.)</detail>
+        <detail name="GDP per capita">$39,500 (2017 est.)</detail>
+        <detail name="Gross national saving">36.6% of GDP (2017 est.)</detail>
         <list-detail name="Industries">
-        
+            <list-item>electronics</list-item>
+            <list-item>telecommunications</list-item>
+            <list-item>automobile production</list-item>
+            <list-item>chemicals</list-item>
+            <list-item>shipbuilding</list-item>
+            <list-item>steel</list-item>
         </list-detail>
-        <detail name="Industrial production growth rate"></detail>
-        <detail name="Labor force"></detail>
-        <detail name="Unemployment rate"></detail>
-        <detail name="Population below poverty line"></detail>
-        <detail name="Taxes and other revenues"></detail>
-        <detail name="Budget surplus (+) or deficit (-)"></detail>
-        <detail name="Public debt"></detail>
-        <detail name="Fiscal year"></detail>
-        <detail name="Inflation rate (consumer prices)"></detail>
-        <detail name="Exports"></detail>
+        <detail name="Industrial production growth rate">4.6% (2017 est.)</detail>
+        <detail name="Labor force">27.75 million (2017 est.)</detail>
+        <detail name="Unemployment rate">3.7% (2017 est.)</detail>
+        <detail name="Population below poverty line">14.4% (2016 est.)</detail>
+        <detail name="Taxes and other revenues">23.2% (of GDP) (2017 est.)</detail>
+        <detail name="Budget surplus (+) or deficit (-)">1.4% (of GDP) (2017 est.)</detail>
+        <detail name="Public debt">39.5% of GDP (2017 est.)</detail>
+        <detail name="Fiscal year">calendar year</detail>
+        <detail name="Inflation rate (consumer prices)">1.9% (2017 est.)</detail>
+        <detail name="Exports">$577.4 billion (2017 est.)</detail>
         <list-detail name="Export commodities">
-        
+            <list-item>semiconductors</list-item>
+            <list-item>petrochemicals</list-item>
+            <list-item>automobile/auto parts</list-item>
+            <list-item>ships</list-item>
+            <list-item>wireless communication equipment</list-item>
+            <list-item>flat displays</list-item>
+            <list-item>steel</list-item>
+            <list-item>electronics</list-item>
+            <list-item>plastics</list-item>
+            <list-item>computers</list-item>
         </list-detail>
         <list-detail name="Export partners">
-        
+            <list-item>China 25.1%</list-item>
+            <list-item>US 12.2%</list-item>
+            <list-item>Vietnam 8.2%</list-item>
+            <list-item>Hong Kong 6.9%</list-item>
+            <list-item>Japan 4.7% (2017)</list-item>
         </list-detail>
-        <detail name="Imports"></detail>
+        <detail name="Imports">$457.5 billion (2017 est.)</detail>
         <list-detail name="Import commodities">
-        
+            <list-item>crude oil/petroleum products</list-item>
+            <list-item>semiconductors</list-item>
+            <list-item>natural gas</list-item>
+            <list-item>coal</list-item>
+            <list-item>steel</list-item>
+            <list-item>computers</list-item>
+            <list-item>wireless communication equipment</list-item>
+            <list-item>automobiles</list-item>
+            <list-item>fine chemicals</list-item>
+            <list-item>textiles</list-item>
         </list-detail>
         <list-detail name="Import partners">
-        
+            <list-item>China 20.5%</list-item>
+            <list-item>Japan 11.5%</list-item>
+            <list-item>US 10.5%</list-item>
+            <list-item>Germany 4.2%</list-item>
+            <list-item>Saudi Arabia 4.1% (2017)</list-item>
         </list-detail>
-        <detail name="Reserves of foreign exchange and gold"></detail>
-        <detail name="Debt - external"></detail>
-        <detail name="Stock of direct foreign investment - at home"></detail>
-        <detail name="Stock of direct foreign investment - abroad"></detail>
+        <detail name="Reserves of foreign exchange and gold">$389.2 billion (31 December 2017 est.)</detail>
+        <detail name="Debt - external">$384.6 billion (31 December 2017 est.)</detail>
         <nested-detail name="GDP - composition, by end use">
-            <detail name="household consumption"></detail>
-            <detail name="government consumption"></detail>
-            <detail name="investment in fixed capital"></detail>
-            <detail name="investment in inventories"></detail>
-            <detail name="exports of goods and services"></detail>
-            <detail name="imports of goods and services"></detail>
+            <detail name="household consumption"> 48.1% (2017 est.)</detail>
+            <detail name="government consumption">15.3% (2017 est.)</detail>
+            <detail name="investment in fixed capital"> 31.1% (2017 est.)</detail>
+            <detail name="investment in inventories"> 0% (2017 est.)</detail>
+            <detail name="exports of goods and services"> 43.1% (2017 est.)</detail>
+            <detail name="imports of goods and services">-37.7% (2017 est.)</detail>
         </nested-detail>
         <nested-detail name="GDP - composition, by sector of origin:">
-            <detail name="agriculture"></detail>
-            <detail name="industry"></detail>
-            <detail name="services"></detail>
+            <detail name="agriculture">2.2% (2017 est.)</detail>
+            <detail name="industry">39.3% (2017 est.)</detail>
+            <detail name="services">58.3% (2017 est.)</detail>
         </nested-detail>
         <nested-detail name="Labor force - by occupation">
-            <detail name="agriculture"></detail>
-            <detail name="industry"></detail>
-            <detail name="services"></detail>
+            <detail name="agriculture">4.8%</detail>
+            <detail name="industry">24.6%</detail>
+            <detail name="services">70.6% (2017 est.)</detail>
         </nested-detail>
         <nested-detail name="Household income or consumption by percentage share">
-            <detail name="lowest 10%"></detail>
-            <detail name="highest 10%"></detail>
+            <detail name="lowest 10%">6.8%</detail>
+            <detail name="highest 10%">48.5% (2015 est.)</detail>
         </nested-detail>
         <nested-detail name="Budget">
-            <detail name="revenues"></detail>
-            <detail name="expenditures"></detail>
+            <detail name="revenues">357.1 billion (2017 est.)</detail>
+            <detail name="expenditures"> 335.8 billion (2017 est.)</detail>
         </nested-detail>
     </section>
     <section name="Energy">
-        <detail name="Electricity - access"></detail>
-        <detail name="Electricity - production"></detail>
-        <detail name="Electricity - consumption"></detail>
-        <detail name="Electricity - exports"></detail>
-        <detail name="Electricity - imports"></detail>
-        <detail name="Electricity - installed generating capacity"></detail>
-        <detail name="Electricity - from fossil fuels"></detail>
-        <detail name="Electricity - from nuclear fuels"></detail>
-        <detail name="Electricity - from hydroelectric plants"></detail>
-        <detail name="Electricity - from other renewable sources"></detail>
-        <detail name="Crude oil - production"></detail>
-        <detail name="Crude oil - exports"></detail>
-        <detail name="Crude oil - imports"></detail>
-        <detail name="Crude oil - proved reserves"></detail>
-        <detail name="Refined petroleum products - production"></detail>
-        <detail name="Refined petroleum products - consumption"></detail>
-        <detail name="Refined petroleum products - exports"></detail>
-        <detail name="Refined petroleum products - imports"></detail>
-        <detail name="Natural gas - production"></detail>
-        <detail name="Natural gas - consumption"></detail>
-        <detail name="Natural gas - exports"></detail>
-        <detail name="Natural gas - imports"></detail>
-        <detail name="Natural gas - proved reserves"></detail>
-        <detail name="Carbon dioxide emissions from consumption of energy"></detail>
+        <detail name="Electricity - access">100% (2016)</detail>
+        <detail name="Electricity - production">526 billion kWh (2016 est.)</detail>
+        <detail name="Electricity - consumption">507.6 billion kWh (2016 est.)</detail>
+        <detail name="Electricity - exports">0 kWh (2016 est.)</detail>
+        <detail name="Electricity - imports">0 kWh (2016 est.)</detail>
+        <detail name="Electricity - installed generating capacity">111.2 million kW (2016 est.)</detail>
+        <detail name="Electricity - from fossil fuels">70% of total installed capacity (2016 est.)</detail>
+        <detail name="Electricity - from nuclear fuels">21% of total installed capacity (2017 est.)</detail>
+        <detail name="Electricity - from hydroelectric plants">2% of total installed capacity (2017 est.)</detail>
+        <detail name="Electricity - from other renewable sources">8% of total installed capacity (2017 est.)</detail>
+        <detail name="Crude oil - production">0 bbl/day (2018 est.)</detail>
+        <detail name="Crude oil - exports">0 bbl/day (2017 est.)</detail>
+        <detail name="Crude oil - imports">3.057 million bbl/day (2017 est.)</detail>
+        <detail name="Crude oil - proved reserves">NA (1 January 2017 est.)</detail>
+        <detail name="Refined petroleum products - production">3.302 million bbl/day (2017 est.)</detail>
+        <detail name="Refined petroleum products - consumption">2.584 million bbl/day (2017 est.)</detail>
+        <detail name="Refined petroleum products - exports">1.396 million bbl/day (2017 est.)</detail>
+        <detail name="Refined petroleum products - imports">908,800 bbl/day (2017 est.)</detail>
+        <detail name="Natural gas - production">339.8 million cu m (2017 est.)</detail>
+        <detail name="Natural gas - consumption">45.28 billion cu m (2017 est.)</detail>
+        <detail name="Natural gas - exports">0 cu m (2017 est.)</detail>
+        <detail name="Natural gas - imports">48.65 billion cu m (2017 est.)</detail>
+        <detail name="Natural gas - proved reserves">7.079 billion cu m (1 January 2018 est.)</detail>
+        <detail name="Carbon dioxide emissions from consumption of energy">778.4 million Mt (2017 est.)</detail>
     </section>
     <section name="Communications">
-        <detail name="Broadcast media"></detail>
-        <detail name="Internet country code"></detail>
+        <detail name="Broadcast media">multiple national TV networks with 2 of the 3 largest networks publicly operated; the largest privately owned network, Seoul Broadcasting Service (SBS), has ties with other commercial TV networks; cable and satellite TV subscription services available; publicly operated radio broadcast networks and many privately owned radio broadcasting networks, each with multiple affiliates, and independent local stations</detail>
+        <detail name="Internet country code">.kr</detail>
         <nested-detail name="Telephones - fixed lines">
-            <detail name="total subscriptions"></detail>
-            <detail name="subscriptions per 100 inhabitants"></detail>
+            <detail name="total subscriptions">25,906,849</detail>
+            <detail name="subscriptions per 100 inhabitants">50 (2018 est.)</detail>
         </nested-detail>
         <nested-detail name="Telephones - mobile cellular">
-            <detail name="total"></detail>
-            <detail name="subscriptions per 100 inhabitants"></detail>
+            <detail name="total">66,355,778</detail>
+            <detail name="subscriptions per 100 inhabitants">129 (2018 est.)</detail>
         </nested-detail>
         <nested-detail name="Internet users">
-            <detail name="total"></detail>
-            <detail name="percent of population"></detail>
+            <detail name="total">49,309,955</detail>
+            <detail name="percent of population"> 95.9% (July 2018 est.)</detail>
         </nested-detail>
     </section>
     <section name="Transportation">
-        <detail name="Civil aircraft registration country code prefix"></detail>
-        <detail name="Airports"></detail>
-        <detail name="Heliports"></detail>
+        <detail name="Civil aircraft registration country code prefix">HL (2016)</detail>
+        <detail name="Airports">111 (2013)</detail>
+        <detail name="Heliports">466 (2013)</detail>
         <list-detail name="Pipelines">
-        
+            <list-item>3790 km gas</list-item>
+            <list-item>16 km oil</list-item>
+            <list-item>889 km refined products (2017)</list-item>
         </list-detail>
-        <detail name="Waterways"></detail>
+        <detail name="Waterways">1,600 km (most navigable only by small craft) (2011)</detail>
         <nested-detail name="National air transport system">
-            <detail name="number of registered air carriers"></detail>
-            <detail name="inventory of registered aircraft operated by air carriers"></detail>
-            <detail name="annual passenger traffic on registered air carriers"></detail>
-            <detail name="annual freight traffic on registered air carriers"></detail>
+            <detail name="number of registered air carriers">14 (2020)</detail>
+            <detail name="inventory of registered aircraft operated by air carriers">424</detail>
+            <detail name="annual passenger traffic on registered air carriers">88,157,579 (2018)</detail>
+            <detail name="annual freight traffic on registered air carriers"> 11,929,560,000 mt-km (2018)</detail>
         </nested-detail>
         <nested-detail name="Airports - with paved runways">
-            <detail name="total"></detail>
-            <detail name="over 3,047 m"></detail>
-            <detail name="2,438 to 3,047 m"></detail>
-            <detail name="1,524 to 2,437 m"></detail>
-            <detail name="914 to 1,523 m"></detail>
-            <detail name="under 914 m"></detail>
+            <detail name="total">71 (2017)</detail>
+            <detail name="over 3,047 m">4 (2017)</detail>
+            <detail name="2,438 to 3,047 m">19 (2017)</detail>
+            <detail name="1,524 to 2,437 m">12 (2017)</detail>
+            <detail name="914 to 1,523 m">13 (2017)></detail>
+            <detail name="under 914 m">23 (2017)</detail>
         </nested-detail>
         <nested-detail name="Airports - with unpaved runways">
-            <detail name="total"></detail>
-            <detail name="914 to 1,523 m"></detail>
-            <detail name="under 914 m"></detail>
+            <detail name="total">40 (2013)</detail>
+            <detail name="914 to 1,523 m">2 (2013)</detail>
+            <detail name="under 914 m">38 (2013)</detail>
         </nested-detail>
         <nested-detail name="Railways">
-            <detail name="total"></detail>
-            <detail name="standard gauge"></detail>
-            <detail name="narrow gauge"></detail>
-            <list-detail name="dual gauge">
-           
-            </list-detail>
+            <detail name="total">3,979 km (2016)</detail>
+            <detail name="standard gauge">3,979 km 1.435-m gauge (2,727 km electrified) (2016)</detail>
         </nested-detail>
         <nested-detail name="Roadways">
-            <detail name="total"></detail>
-            <detail name="paved"></detail>
-            <detail name="unpaved"></detail>
+            <detail name="total">100,428 km (2016)</detail>
+            <detail name="paved">92,795 km (includes 4,193 km of expressways) (2016)</detail>
+            <detail name="unpaved">7,633 km (2016)</detail>
         </nested-detail>
         <nested-detail name="Merchant marine">
-            <detail name="total"></detail>
+            <detail name="total">1,880</detail>
             <list-detail name="by type">
-             
+                <list-item>bulk carrier 83</list-item>
+                <list-item>container ship 86</list-item>
+                <list-item>general cargo 368</list-item>
+                <list-item>oil tanker 187</list-item>
+                <list-item>other 1,156 (2019)</list-item>
             </list-detail>
         </nested-detail>
         <nested-detail name="Ports and terminals">
             <list-detail name="major seaport(s)">
-            
+                <list-item>Busan</list-item>
+                <list-item>Incheon</list-item>
+                <list-item>Gunsan</list-item>
+                <list-item>Kwangyang</list-item>
+                <list-item>Mokpo</list-item>
+                <list-item>Pohang</list-item>
+                <list-item>Ulsan</list-item>
+                <list-item>Yeosu</list-item>
+            </list-detail>
+            <list-detail name="container port(s) (TEUs)">
+                <list-item>Busan (20,493,000)</list-item>
+                <list-item>Incheon (3,050,000)</list-item>
+                <list-item>Kwangyang (2,230,000) (2017)</list-item>
+            </list-detail>
+            <list-detail name="LNG terminal(s) (import)">
+                <list-item>Incheon</list-item>
+                <list-item>Kwangyang</list-item>
+                <list-item>Pyeongtaek</list-item>
+                <list-item>Samcheok</list-item>
+                <list-item>Tongyeong</list-item>
+                <list-item>Yeosu</list-item>
             </list-detail>
         </nested-detail>
     </section>
     <section name="Military and security">
-        <detail name="Military expenditures"></detail>
+        <detail name="Military expenditures">2.7% of GDP</detail>
         <list-detail name="Military service age and obligation">
-          
+            <list-item>18-28 years of age for compulsory military service</list-item>
+            <list-item>minimum conscript service obligation varies by service- 21 months (Army, Marines), 23 months (Navy), 24 months (Air Force)</list-item>
+            <list-item>18-26 years of age for voluntary military service</list-item>
+            <list-item>women, in service since 1950, are able to serve in all branches (2019)</list-item>
         </list-detail>
     </section>
     <section name="Transnational issues">
-        <detail name="Disputes - international"></detail>
+        <detail name="Disputes - international">Military Demarcation Line within the 4-km-wide Demilitarized Zone has separated North from South Korea since 1953; periodic incidents with North Korea in the Yellow Sea over the Northern Limit Line, which South Korea claims as a maritime boundary; South Korea and Japan claim Liancourt Rocks (Tok-do/Take-shima), occupied by South Korea since 1954</detail>
         <nested-detail name="Refugees and internally displaced persons">
-            <detail name="stateless persons"></detail>
+            <detail name="stateless persons">197 (2018)</detail>
         </nested-detail>
     </section>
 </country>
