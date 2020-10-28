@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<country from="https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html" id="japan">
+    <introduction>
+        <name>Japan</name>
+        <background>
+            <paragraph>In 1603, after decades of civil warfare, the Tokugawa shogunate (a military-led, dynastic government) ushered in a long period of relative political stability and isolation from foreign influence. For more than two centuries this policy enabled Japan to enjoy a flowering of its indigenous culture. Japan opened its ports after signing the Treaty of Kanagawa with the US in 1854 and began to intensively modernize and industrialize. During the late 19th and early 20th centuries, Japan became a regional power that was able to defeat the forces of both China and Russia. It occupied Korea, Formosa (Taiwan), and southern Sakhalin Island. In 1931-32 Japan occupied Manchuria, and in 1937 it launched a full-scale invasion of China. Japan attacked US forces in 1941 - triggering America's entry into World War II - and soon occupied much of East and Southeast Asia. After its defeat in World War II, Japan recovered to become an economic power and an ally of the US. While the emperor retains his throne as a symbol of national unity, elected politicians hold actual decision-making power. Following three decades of unprecedented growth, Japan's economy experienced a major slowdown starting in the 1990s, but the country remains an economic power. In March 2011, Japan's strongest-ever earthquake, and an accompanying tsunami, devastated the northeast part of Honshu island, killed thousands, and damaged several nuclear power plants. Prime Minister Shinzo ABE was reelected to office in December 2012, and has since embarked on ambitious economic and security reforms to improve Japan's economy and bolster the country's international standing. In November 2019, ABE became Japan's longest-serving post-war prime minister.</paragraph>
+        </background>
+    </introduction>
+    <section name="Geography">
+        <detail name="Location">Eastern Asia, island chain between the North Pacific Ocean and the Sea of Japan, east of the Korean Peninsula</detail>
+        <detail name="Coordinates">36 00 N, 138 00 E</detail>
+        <detail name="Coastline">29,751 km</detail>
+        <detail name="Climate">varies from tropical in south to cool temperate in north</detail>
+        <detail name="Terrain">mostly rugged and mountainous</detail>
+        <list-detail name="Natural resources">
+            <list-item>negligible mineral resources</list-item> 
+            <list-item>fish</list-item>  
+            <list-item>note</list-item>  
+            <list-item>with virtually no natural energy resources</list-item> 
+            <list-item>Japan is the world's largest importer of coal and liquefied natural gas</list-item> 
+            <list-item>as well as the second largest importer of oil</list-item> 
+        </list-detail>
+        <detail name="Irrigated land">24,690 sq km (2012)</detail>
+        <list-detail name="Natural hazards">
+            <list-deatil>many dormant and some active volcanoes</list-deatil> 
+            <list-deatil>about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year</list-deatil> 
+            <list-deatil>tsunamis</list-deatil> 
+            <list-deatil>typhoons</list-deatil>
+        </list-detail>
+        <list-detail name="Current environment issues">
+            <list-item>air pollution from power plant emissions results in acid rain</list-item>
+            <list-item>acidification of lakes and reservoirs degrading water quality and threatening aquatic life</list-item>
+            <list-item>Japan is one of the largest consumers of fish and tropical timber, contributing to the depletion of these resources in Asia and elsewhere; following the 2011 Fukushima nuclear disaster, Japan originally planned to phase out nuclear power, but it has now implemented a new policy of seeking to restart nuclear power plants that meet strict new safety standards; waste management is an ongoing issue; Japanese municipal facilities used to burn high volumes of trash, but air pollution issues forced the government to adopt an aggressive recycling policy</list-item>
+        </list-detail>
+        <detail name="Population - distribution"></detail>
+        <nested-detail name="Area">
+            <detail name="wotal"></detail>>
+            <detail name="land"></detail>
+            <detail name="water"></detail>
+            <list-detail name="note">
+                <list-item>includes Bonin Islands (Ogasawara-gunto)</list-item>
+                <list-item>Daito-shoto</list-item>
+                <list-item>Okino-tori-shima</list-item>
+                <list-item>Ryukyu Islands (Nansei-shoto)</list-item>
+                <list-item>Volcano Islands (Kazan-retto)</list-item>
+                <list-item>Minami-jima</list-item>
+            </list-detail>
+        </nested-detail>
+        <nested-detail name="Maritime claims">
+            <detail name="territorial sea">12 nm; between 3 nm and 12 nm in the international straits - La Perouse or Soya, Tsugaru, Osumi, and Eastern and Western Channels of the Korea or Tsushima Strait</detail>
+            <detail name="exclusive economic zone">200nm</detail>
+            <detail name="contiguous zone">24nm</detail>
+        </nested-detail>
+        <nested-detail name="Land use">
+            <detail name="agricultural land">12.5% (2011 est.)</detail> 
+            <detail name="arable land">11.7% (2011 est.) / permanent crops: 0.8% (2011 est.) / permanent pasture: 0% (2011 est.)</detail>
+            <detail name="forest"> 68.5% (2011 est.)</detail> 
+            <detail name="other">19% (2011 est.)</detail> 
+        </nested-detail>
+        <nested-detail name="Environment international agreements">
+            <list-detail name="party to">
+                <list-item>Antarctic-Environmental Protocol</list-item>
+                <list-item>Antarctic-Marine Living Resources</list-item>
+                <list-item>Antarctic Seals</list-item>
+                <list-item>Antarctic Treaty</list-item>
+                <list-item>Biodiversity</list-item>
+                <list-item>Climate Change</list-item>
+                <list-item>Climate Change-Kyoto Protocol</list-item>
+                <list-item>Desertification</list-item>
+                <list-item>Endangered Species</list-item>
+                <list-item>Environmental Modification</list-item>
+                <list-item>Hazardous Wastes</list-item>
+                <list-item>Law of the Sea</list-item>
+                <list-item>Marine Dumping</list-item>
+                <list-item>Ozone Layer Protection</list-item>
+                <list-item>Ship Pollution</list-item>
+                <list-item>Tropical Timber 83</list-item>
+                <list-item>Tropical Timber 94</list-item>
+                <list-item>Wetlands</list-item>
+                <list-item>Whaling</list-item>
+            </list-detail>
+            <detail name="signed, but not ratified">none of the selected agreements</detail>
+        </nested-detail>
+        <nested-detail name="Elevation">
+            <detail name="mean-elevation">438m</detail>
+            <detail name="lowest point">Hachiro-gata -4 m</detail>
+            <detail name="highest point">Mount Fuji 3,776 m</detail>
+        </nested-detail>
+    </section>  
+    <section name="People and society">
+        <detail name="Population">125,507,472 (July 2020 est.)</detail>
+        <list-detail name="Ethnic groups">
+            <list-item></list-item>
+        </list-detail>
+        <list-detail name="Languages">
+            <list-item>Japanese</list-item>
+        </list-detail>
+        <detail name="Religions">Shintoism 70.4%, Buddhism 69.8%, Christianity 1.5%, other 6.9% (2015 est.)</detail>
+        <list-detail name="Demographic profile">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="Population growth rate"></detail>
+        <detail name="Birth rate"></detail>
+        <detail name="Death rate"></detail>
+        <detail name="Net migration rate"></detail>
+        <detail name="Population distribution"></detail>
+        <detail name="Mother's mean age at first birth"></detail>
+        <detail name="Maternal mortality rate"></detail>
+        <detail name="Total fertility rate"></detail>
+        <detail name="Contraceptive prevalence rate"></detail>
+        <detail name="Health expenditures"></detail>
+        <detail name="Physicians density"></detail>
+        <detail name="Hospital bed density"></detail>
+        <detail name="Total fertility rate"></detail>
+        <list-detail name="Urban areas">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="HIV/AIDS - adult prevalence rate"></detail>
+        <detail name="HIV/AIDS - people living with HIV/AIDS"></detail>
+        <detail name="HIV/AIDS - deaths"></detail>
+        <detail name="Obesity - adult prevalence rate"></detail>
+        <detail name="Children under the age of 5 years underweight"></detail>
+        <detail name="Education expenditures"></detail>
+        <nested-detail name="Nationality">
+            <detail name="noun">Japanese (singular and plural)</detail>
+            <detail name="adjective">Japanese</detail>
+        </nested-detail>
+        <nested-detail name="Dependency ratios">
+            <detail name="total dependency ratio"></detail>
+            <detail name="youth dependency ratio"></detail>
+            <detail name="elderly dependency ratio"></detail>
+        </nested-detail>
+        <nested-detail name="Median age">
+            <detail name="total"></detail>
+            <detail name="male"></detail>
+            <detail name="female"></detail>
+        </nested-detail>
+        <nested-detail name="Urbanization">
+
+        </nested-detail>
+        <nested-detail name="Infant mortality rate">
+            <detail name="total"></detail>
+            <detail name="male"></detail>
+            <detail name="female"></detail>
+        </nested-detail>
+        <nested-detail name="Life expectancy at birth">
+            <detail name="total"></detail>
+            <detail name="male"></detail>
+            <detail name="female"></detail>
+        </nested-detail>
+        <nested-detail name="Major infectious diseases">
+
+        </nested-detail>
+        <nested-detail name="Literacy">
+
+        </nested-detail>
+        <nested-detail name="School life expectancy (primary to tertiary education)">
+
+        </nested-detail>
+        <nested-detail name="Unemployment, youth ages 15-24">
+            <detail name="total"></detail>
+            <detail name="male"></detail>
+            <detail name="female"></detail>
+        </nested-detail>
+        <histogram name="Age structure" unit="%">
+            <entry from_age="" to_age=""></entry>
+            <entry from_age="" to_age=""></entry>
+            <entry from_age="" to_age=""></entry>
+            <entry from_age="" to_age=""></entry>
+            <entry from_age="" to_age=""></entry>
+        </histogram>
+        <histogram name="Sex ratio">
+            <entry from_age="" to_age=""></entry>
+            <entry from_age="" to_age=""></entry>
+            <entry from_age="" to_age=""></entry>
+            <entry from_age="" to_age=""></entry>
+            <entry from_age="" to_age=""></entry>
+            <entry from_age=""></entry>
+            <entry></entry>
+        </histogram>
+    </section>
+    <section name="Government">
+        <detail name="Dependency status"></detail>
+        <detail name="Government type"></detail>
+        <list-detail name="Administrative divisions">
+            <list-item></list-item>
+        </list-detail>
+        <list-detail name="Independence">
+            <list-item>3 May 1947 (current constitution adopted as amendment to Meiji Constitution)</list-item>
+            <list-item>notable earlier dates: 11 February 660 B.C. (mythological date of the founding of the nation by Emperor JIMMU)</list-item>
+            <list-item>29 November 1890 (Meiji Constitution provides for constitutional monarchy)</list-item>
+        </list-detail>
+        <detail name="National holiday"></detail>
+        <detail name="Legal system"></detail>
+        <detail name="International law organization participation"></detail>
+        <detail name="Suffrage">18 years of age; universal</detail>
+        <list-detail name="International organization participation">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="Flag description"></detail>
+        <list-detail name="National symbol(s)">
+            <list-item></list-item>
+        </list-detail>
+        <nested-detail name="Country name"></nested-detail>
+        <nested-detail name="Capital"></nested-detail>
+        <nested-detail name="Constitution"></nested-detail>
+        <nested-detail name="Citizenship"></nested-detail>
+        <nested-detail name="Executive branch"></nested-detail>
+        <nested-detail name="Legislative branch"></nested-detail>
+        <nested-detail name="Judicial branch"></nested-detail>
+        <nested-detail name="National anthem"></nested-detail>
+    </section>
+    <section name="Economy">
+        <list-detail name="Overview">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="GDP (purchasing power parity)"></detail>
+        <detail name="GDP (official exchange rate)"></detail>
+        <list-detail name="GDP per capita">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="Gross national saving"></detail>
+        <list-detail name="Agricultural products">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="Industries"></detail>
+        <detail name="Industrial production growth rate"></detail>
+        <detail name="Labor force"></detail>
+        <detail name="Unemployment rate"></detail>
+        <detail name="Population below poverty line"></detail>
+        <detail name="Distribution of family income - Gini index"></detail>
+        <detail name="Taxes and other revenues"></detail>
+        <detail name="Budget surplus (+) or deficit (-)"></detail>
+        <detail name="Public debt"></detail>
+        <detail name="Fiscal year"></detail>
+        <detail name="Inflation rate (consumer prices)"></detail>
+        <detail name="Central bank discount rate"></detail>
+        <detail name="Commercial bank prime lending rate"></detail>
+        <detail name="Stock of narrow money"></detail>
+        <detail name="Stock of broad money"></detail>
+        <detail name="Stock of domestic credit"></detail>
+        <detail name="Market value of publicly traded shares"></detail>
+        <detail name="Current account balance"></detail>
+        <detail name="Exports"></detail>
+        <list-detail name="Export commodities">
+            <list-item></list-item>
+        </list-detail>
+        <list-detail name="Export partners">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="Imports"></detail>
+        <list-detail name="Import commodities">
+            <list-item></list-item>
+        </list-detail>
+        <list-detail name="Import partners">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="Reserves of foreign exchange and gold"></detail>
+        <detail name="Debt - external"></detail>
+        <detail name="Stock of direct foreign investment - at home"></detail>
+        <detail name="Stock of direct foreign investment - abroad"></detail>
+        <nested-detail name="GDP - composition, by end use"></nested-detail>
+        <nested-detail name="GDP - composition, by sector of origin:"></nested-detail>
+        <nested-detail name="Labor force - by occupation"></nested-detail>
+        <nested-detail name="Household income or consumption by percentage share"></nested-detail>
+        <nested-detail name="Budget"></nested-detail>
+    </section>
+    <section name="Energy">
+        <detail name="Electricity - production"></detail>
+        <detail name="Electricity - consumption"></detail>
+        <detail name="Electricity - exports"></detail>
+        <detail name="Electricity - imports"></detail>
+        <detail name="Electricity - installed generating capacity"></detail>
+        <detail name="Electricity - from fossil fuels"></detail>
+        <detail name="Electricity - from nuclear fuels"></detail>
+        <detail name="Electricity - from hydroelectric plants"></detail>
+        <detail name="Electricity - from other renewable sources"></detail>
+        <detail name="Crude oil - production"></detail>
+        <detail name="Crude oil - exports"></detail>
+        <detail name="Crude oil - imports"></detail>
+        <detail name="Crude oil - proved reserves"></detail>
+        <detail name="Refined petroleum products - production"></detail>
+        <detail name="Refined petroleum products - consumption"></detail>
+        <detail name="Refined petroleum products - exports"></detail>
+        <detail name="Refined petroleum products - imports"></detail>
+        <detail name="Natural gas - production"></detail>
+        <detail name="Natural gas - consumption"></detail>
+        <detail name="Natural gas - exports"></detail>
+        <detail name="Natural gas - imports"></detail>
+        <detail name="Natural gas - proved reserves"></detail>
+        <detail name="Carbon dioxide emissions from consumption of energy"></detail>
+        <nested-detail name="Electricity access"></nested-detail>
+    </section>
+    <section name="Communications">
+        <detail name="Broadcast media"></detail>
+        <detail name="Internet country code"></detail>
+        <nested-detail name="Telephones - fixed lines">
+            <detail name="total subscriptions"></detail>
+            <detail name="subscriptions per 100 inhabitants"></detail>
+        </nested-detail>   
+        <nested-detail name="Telephones - mobile cellular">
+            <detail name="total"></detail>
+            <detail name="subscriptions per 100 inhabitants"></detail>
+        </nested-detail> 
+        <detail name="Telephone system"></detail>
+        <nested-detail name="Internet users">
+            <detail name="total"></detail>
+            <detail name="percent of population"></detail>
+        </nested-detail> 
+    </section>
+    <section name="Transportation">
+        <detail name="Civil aircraft registration country code prefix"></detail>
+        <detail name="Airports">175</detail>
+        <detail name="Heliports">16</detail>
+        <list-detail name="Pipelines">
+            <list-item>4456 km gas</list-item>
+            <list-item>174 km oil</list-item>
+            <list-item>104 km oil/gas/water</list-item>
+        </list-detail>
+        <detail name="Waterways">1,770 km (seagoing vessels use inland seas)</detail>
+        <nested-detail name="National air transport system"></nested-detail>
+        <nested-detail name="Airports - with paved runways"></nested-detail>
+        <nested-detail name="Airports - with unpaved runways"></nested-detail>
+        <nested-detail name="Railways">
+            <detail name="total"></detail>
+            <detail name="broad gauge"></detail>
+            <detail name="standard gauge"></detail>
+        </nested-detail>
+        <nested-detail name="Roadways">
+            <detail name="total"></detail>
+            <detail name="paved"></detail>
+            <detail name="unpaved"></detail>
+        </nested-detail>
+        <nested-detail name="Merchant marine">
+            <detail name="total"></detail>
+            <detail name="by type"></detail>
+            <detail name="foreign-owned"></detail>
+            <detail name="registered in other countries"></detail>
+        </nested-detail>
+        <nested-detail name="Ports and terminals"></nested-detail>
+    </section>
+    <section name="Military and security">
+        <detail name="Military expenditures"></detail>
+        <list-detail name="Military service age and obligation">
+            <list-item></list-item>
+        </list-detail>
+        <detail name="Maritime threats"></detail>
+        <detail name="Military - note"></detail>
+    </section>
+    <section name="Transnational issues">
+        <list-datail name="Disputes - international">
+            <list-item></list-item>
+        </list-datail>
+        <list-datail name="Illicit drugs">
+            <list-item></list-item>
+        </list-datail>
+        <nested-detail name="Refugees and internally displaced persons"></nested-detail>
+        <nested-detail name="Trafficking in persons"></nested-detail>
+    </section>
+</country>
