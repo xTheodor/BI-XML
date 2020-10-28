@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!DOCTYPE countries [
-    <!ENTITY japan SYSTEM "xml/japan.xml">
-    <!ENTITY korea_south SYSTEM "xml/korea_south.xml">
-    <!ENTITY cyprus SYSTEM "xml/cyprus.xml">
-    <!ENTITY antarctica SYSTEM "xml/antarctica.xml">
+    <!ENTITY japan SYSTEM "data/japan.xml">
+    <!ENTITY korea_south SYSTEM "data/korea_south.xml">
+    <!ENTITY cyprus SYSTEM "data/cyprus.xml">
+    <!ENTITY antarctica SYSTEM "data/antarctica.xml">
 ]>
 
 <countries>
