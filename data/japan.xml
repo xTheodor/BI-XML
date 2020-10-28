@@ -245,87 +245,87 @@
         <detail name="International law organization participation">accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction</detail>
         <detail name="Suffrage">18 years of age; universal</detail>
         <list-detail name="International organization participation">
-            <list-item name="ADB"></list-item>
-            <list-item name="AfDB (nonregional member)"></list-item>
-            <list-item name="APEC"></list-item>
-            <list-item name="Arctic Council (observer)"></list-item>
-            <list-item name="ARF"></list-item>
-            <list-item name="ASEAN (dialogue partner)"></list-item>
-            <list-item name="Australia Group"></list-item>
-            <list-item name="BIS"></list-item>
-            <list-item name="CD"></list-item>
-            <list-item name="CE (observer)"></list-item>
-            <list-item name="CERN (observer)"></list-item>
-            <list-item name="CICA (observer)"></list-item>
-            <list-item name="CP"></list-item>
-            <list-item name="CPLP (associate)"></list-item>
-            <list-item name="EAS"></list-item>
-            <list-item name="EBRD"></list-item>
-            <list-item name="EITI (implementing country)"></list-item>
-            <list-item name="FAO"></list-item>
-            <list-item name="FATF"></list-item>
-            <list-item name="G-5"></list-item>
-            <list-item name="G-7"></list-item>
-            <list-item name="G-8"></list-item>
-            <list-item name="G-10"></list-item>
-            <list-item name="G-20"></list-item>
-            <list-item name="IADB"></list-item>
-            <list-item name="IAEA"></list-item>
-            <list-item name="IBRD"></list-item>
-            <list-item name="ICAO"></list-item>
-            <list-item name="ICC (national committees)"></list-item>
-            <list-item name="ICCt"></list-item>
-            <list-item name="ICRM"></list-item>
-            <list-item name="IDA"></list-item>
-            <list-item name="IEA"></list-item>
-            <list-item name="IFAD"></list-item>
-            <list-item name="IFC"></list-item>
-            <list-item name="IFRCS"></list-item>
-            <list-item name="IGAD (partners)"></list-item>
-            <list-item name="IHO"></list-item>
-            <list-item name="ILO"></list-item>
-            <list-item name="IMF"></list-item>
-            <list-item name="IMO"></list-item>
-            <list-item name="IMSO"></list-item>
-            <list-item name="Interpol"></list-item>
-            <list-item name="IOC"></list-item>
-            <list-item name="IOM"></list-item>
-            <list-item name="IPU"></list-item>
-            <list-item name="ISO"></list-item>
-            <list-item name="ITSO"></list-item>
-            <list-item name="ITU"></list-item>
-            <list-item name="ITUC (NGOs)"></list-item>
-            <list-item name="LAIA (observer)"></list-item>
-            <list-item name="MIGA"></list-item>
-            <list-item name="NEA"></list-item>
-            <list-item name="NSG"></list-item>
-            <list-item name="OAS (observer)"></list-item>
-            <list-item name="OECD"></list-item>
-            <list-item name="OPCW"></list-item>
-            <list-item name="OSCE (partner)"></list-item>
-            <list-item name="Pacific Alliance (observer)"></list-item>
-            <list-item name="Paris Club"></list-item>
-            <list-item name="PCA"></list-item>
-            <list-item name="PIF (partner)"></list-item>
-            <list-item name="SAARC (observer)"></list-item>
-            <list-item name="SELEC (observer)"></list-item>
-            <list-item name="SICA (observer)"></list-item>
-            <list-item name="UN"></list-item>
-            <list-item name="UNCTAD"></list-item>
-            <list-item name="UNESCO"></list-item>
-            <list-item name="UNHCR"></list-item>
-            <list-item name="UNIDO"></list-item>
-            <list-item name="UNMISS"></list-item>
-            <list-item name="UNRWA"></list-item>
-            <list-item name="UNWTO"></list-item>
-            <list-item name="UPU"></list-item>
-            <list-item name="WCO"></list-item>
-            <list-item name="WFTU (NGOs)"></list-item>
-            <list-item name="WHO"></list-item>
-            <list-item name="WIPO"></list-item>
-            <list-item name="WMO"></list-item>
-            <list-item name="WTO"></list-item>
-            <list-item name="ZC"></list-item>
+            <list-item>ADB</list-item>
+            <list-item>AfDB (nonregional member)</list-item>
+            <list-item>APEC</list-item>
+            <list-item>Arctic Council (observer)</list-item>
+            <list-item>ARF</list-item>
+            <list-item>ASEAN (dialogue partner)</list-item>
+            <list-item>Australia Group</list-item>
+            <list-item>BIS</list-item>
+            <list-item>CD</list-item>
+            <list-item>CE (observer)</list-item>
+            <list-item>CERN (observer)</list-item>
+            <list-item>CICA (observer)</list-item>
+            <list-item>CP</list-item>
+            <list-item>CPLP (associate)</list-item>
+            <list-item>EAS</list-item>
+            <list-item>EBRD</list-item>
+            <list-item>EITI (implementing country)</list-item>
+            <list-item>FAO</list-item>
+            <list-item>FATF</list-item>
+            <list-item>G-5</list-item>
+            <list-item>G-7</list-item>
+            <list-item>G-8</list-item>
+            <list-item>G-10</list-item>
+            <list-item>G-20</list-item>
+            <list-item>IADB</list-item>
+            <list-item>IAEA</list-item>
+            <list-item>IBRD</list-item>
+            <list-item>ICAO</list-item>
+            <list-item>ICC (national committees)</list-item>
+            <list-item>ICCt</list-item>
+            <list-item>ICRM</list-item>
+            <list-item>IDA</list-item>
+            <list-item>IEA</list-item>
+            <list-item>IFAD</list-item>
+            <list-item>IFC</list-item>
+            <list-item>IFRCS</list-item>
+            <list-item>IGAD (partners)</list-item>
+            <list-item>IHO</list-item>
+            <list-item>ILO</list-item>
+            <list-item>IMF</list-item>
+            <list-item>IMO</list-item>
+            <list-item>IMSO</list-item>
+            <list-item>Interpol</list-item>
+            <list-item>IOC</list-item>
+            <list-item>IOM</list-item>
+            <list-item>IPU</list-item>
+            <list-item>ISO</list-item>
+            <list-item>ITSO</list-item>
+            <list-item>ITU</list-item>
+            <list-item>ITUC (NGOs)</list-item>
+            <list-item>LAIA (observer)</list-item>
+            <list-item>MIGA</list-item>
+            <list-item>NEA</list-item>
+            <list-item>NSG</list-item>
+            <list-item>OAS (observer)</list-item>
+            <list-item>OECD</list-item>
+            <list-item>OPCW</list-item>
+            <list-item>OSCE (partner)</list-item>
+            <list-item>Pacific Alliance (observer)</list-item>
+            <list-item>Paris Club</list-item>
+            <list-item>PCA</list-item>
+            <list-item>PIF (partner)</list-item>
+            <list-item>SAARC (observer)</list-item>
+            <list-item>SELEC (observer)</list-item>
+            <list-item>SICA (observer)</list-item>
+            <list-item>UN</list-item>
+            <list-item>UNCTAD</list-item>
+            <list-item>UNESCO</list-item>
+            <list-item>UNHCR</list-item>
+            <list-item>UNIDO</list-item>
+            <list-item>UNMISS</list-item>
+            <list-item>UNRWA</list-item>
+            <list-item>UNWTO</list-item>
+            <list-item>UPU</list-item>
+            <list-item>WCO</list-item>
+            <list-item>WFTU (NGOs)</list-item>
+            <list-item>WHO</list-item>
+            <list-item>WIPO</list-item>
+            <list-item>WMO</list-item>
+            <list-item>WTO</list-item>
+            <list-item>ZC</list-item>
         </list-detail>
         <detail name="Flag description">white with a large red disk (representing the sun without rays) in the center</detail>
         <list-detail name="National symbol(s)">
