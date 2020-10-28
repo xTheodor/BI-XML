@@ -24,7 +24,7 @@
         </list-detail>
         <detail name="Population - distribution"></detail>
         <nested-detail name="Area">
-            <detail name="wotal"></detail>>
+            <detail name="total"></detail>
             <detail name="land"></detail>
             <detail name="water"></detail>
             <list-detail name="note">
@@ -218,7 +218,7 @@
     <section name="Economy">
         <detail name="Overview">
             
-        </detail>>
+        </detail>
         <detail name="GDP (purchasing power parity)"></detail>
         <detail name="GDP (official exchange rate)"></detail>
         <detail name="GDP per capita"></detail>
