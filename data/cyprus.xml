@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE country SYSTEM "../validation/country.dtd">
 <country from="https://www.cia.gov/library/publications/the-world-factbook/geos/cy.html" id="cyprus">
     <introduction>
         <name>Cyprus</name>
@@ -123,9 +124,6 @@
         <detail name="Health expenditures">6.7% (2017)</detail>
         <detail name="Physicians density">1.95 physicians/1,000 population (2016)</detail>
         <detail name="Hospital bed density">3.4 beds/1,000 population (2017)</detail>
-        <list-detail name="Urban areas">
-            
-        </list-detail>
         <detail name="HIV/AIDS - adult prevalence rate">0.1% (2017 est.)</detail>
         <detail name="HIV/AIDS - people living with HIV/AIDS">1000 (2017 est.)</detail>
         <detail name="HIV/AIDS - deaths">100 (2017 est.)</detail>

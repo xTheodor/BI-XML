@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE country SYSTEM "../validation/country.dtd">
 <country from="https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html" id="japan">
     <introduction>
         <name>Japan</name>
@@ -22,10 +23,10 @@
         </list-detail>
         <detail name="Irrigated land">24,690 sq km (2012)</detail>
         <list-detail name="Natural hazards">
-            <list-deatil>many dormant and some active volcanoes</list-deatil>
-            <list-deatil>about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year</list-deatil>
-            <list-deatil>tsunamis</list-deatil>
-            <list-deatil>typhoons</list-deatil>
+            <list-item>many dormant and some active volcanoes</list-item>
+            <list-item>about 1,500 seismic occurrences (mostly tremors but occasional severe earthquakes) every year</list-item>
+            <list-item>tsunamis</list-item>
+            <list-item>typhoons</list-item>
         </list-detail>
         <list-detail name="Current environment issues">
             <list-item>air pollution from power plant emissions results in acid rain</list-item>
