@@ -1,389 +1,527 @@
 <?xml version="1.0" encoding="utf-8"?>
 <country from="https://www.cia.gov/library/publications/the-world-factbook/geos/cy.html" id="cyprus">
     <introduction>
-        <name></name>
+        <name>Cyprus</name>
         <background>
-            <paragraph></paragraph>
+            <paragraph>A former British colony, Cyprus became independent in 1960 following years of resistance to British rule. Tensions between the Greek Cypriot majority and Turkish Cypriot minority communities came to a head in December 1963, when violence broke out in the capital of Nicosia. Despite the deployment of UN peacekeepers in 1964, sporadic intercommunal violence continued, forcing most Turkish Cypriots into enclaves throughout the island. In 1974, a Greek Government-sponsored attempt to overthrow the elected president of Cyprus was met by military intervention from Turkey, which soon controlled more than a third of the island. In 1983, the Turkish Cypriot administered area declared itself the "Turkish Republic of Northern Cyprus" ("TRNC"), but it is recognized only by Turkey. An UN-mediated agreement, the Annan Plan, failed to win approval by both communities in 2004. In February 2014, after a hiatus of nearly two years, the leaders of the two communities resumed formal discussions under UN auspices aimed at reuniting the divided island. The most recent round of negotiations to reunify the island were suspended in July 2017 after failure to achieve a breakthrough. The entire island entered the EU on 1 May 2004, although the EU acquis - the body of common rights and obligations - applies only to the areas under the internationally recognized government, and is suspended in the "TRNC." However, individual Turkish Cypriots able to document their eligibility for Republic of Cyprus citizenship legally enjoy the same rights accorded to other citizens of EU states.</paragraph>
         </background>
     </introduction>
     <section name="Geography">
-        <detail name="Location"></detail>
-        <detail name="Coordinates"></detail>
-        <detail name="Coastline"></detail>
-        <detail name="Climate"></detail>
-        <detail name="Terrain"></detail>
+        <detail name="Location">Middle East, island in the Mediterranean Sea, south of Turkey; note - Cyprus views itself as part of Europe; geopolitically, it can be classified as falling within Europe, the Middle East, or both</detail>
+        <detail name="Coordinates">35 00 N, 33 00 E</detail>
+        <detail name="Coastline">648 km</detail>
+        <detail name="Climate">temperate; Mediterranean with hot, dry summers and cool winters</detail>
+        <detail name="Terrain">central plain with mountains to north and south; scattered but significant plains along southern coast</detail>
         <list-detail name="Natural resources">
-
+            <list-item>copper</list-item>
+            <list-item>pyrites</list-item>
+            <list-item>asbestos</list-item>
+            <list-item>gypsum</list-item>
+            <list-item>timber</list-item>
+            <list-item>salt</list-item>
+            <list-item>marble</list-item>
+            <list-item>clay earth pigment</list-item>
         </list-detail>
-        <detail name="Irrigated land"></detail>
+        <detail name="Irrigated land">460 sq km (2012)</detail>
         <list-detail name="Natural hazards">
-            
+            <list-item>moderate earthquake activity</list-item>
+            <list-item>droughts</list-item>
         </list-detail>
         <list-detail name="Current environment issues">
-            
+            <list-item>water resource problems (no natural reservoir catchments</list-item>
+            <list-item>seasonal disparity in rainfall</list-item>
+            <list-item>sea water intrusion to island's largest aquifer</list-item>
+            <list-item>increased salination in the north); water pollution from sewage</list-item>
+            <list-item>industrial wastes</list-item>
+            <list-item>and pesticides; coastal degradation; erosion; loss of wildlife habitats from urbanization</list-item>
         </list-detail>
-        <detail name="Population - distribution"></detail>
+        <detail name="Population - distribution">population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca</detail>
         <nested-detail name="Area">
-            <detail name="total"></detail>
-            <detail name="land"></detail>
-            <detail name="water"></detail>
-            <list-detail name="note">
-                
-            </list-detail>
+            <detail name="total">9,251 sq km (of which 3,355 sq km are in north Cyprus)</detail>
+            <detail name="land">9,241 sq km</detail>
+            <detail name="water">10 sq km</detail>
         </nested-detail>
         <nested-detail name="Maritime claims">
-            <detail name="territorial sea"></detail>
-            <detail name="exclusive economic zone"></detail>
-            <detail name="contiguous zone"></detail>
+            <detail name="territorial sea">12 nm</detail>
+            <detail name="contiguous zone">24 nm</detail>
+            <detail name="continental shelf">200-m depth or to the depth of exploitation</detail>
         </nested-detail>
         <nested-detail name="Land use">
-            <detail name="agricultural land"></detail>
-            <detail name="arable land"></detail>
-            <detail name="forest"></detail>
-            <detail name="other"></detail>
+            <detail name="agricultural land">13.4% (2011 est.)</detail>
+            <detail name="arable land">9.8% (2011 est.) / permanent crops: 3.2% (2011 est.) / permanent pasture: 0.4% (2011 est.)</detail>
+            <detail name="forest">18.8% (2011 est.)</detail>
+            <detail name="other">67.8% (2011 est.)</detail>
         </nested-detail>
         <nested-detail name="Environment international agreements">
             <list-detail name="party to">
-                
+                <list-item>Air Pollution</list-item>
+                <list-item>Air Pollution-Nitrogen Oxides</list-item>
+                <list-item>Air Pollution-Persistent Organic Pollutants</list-item>
+                <list-item>Air Pollution-Sulfur 94</list-item>
+                <list-item>Biodiversity</list-item>
+                <list-item>Climate Change</list-item>
+                <list-item>Climate Change-Kyoto Protocol</list-item>
+                <list-item>Desertification</list-item>
+                <list-item>Endangered Species</list-item>
+                <list-item>Environmental Modification</list-item>
+                <list-item>Hazardous Wastes</list-item>
+                <list-item>Law of the Sea</list-item>
+                <list-item>Marine Dumping</list-item>
+                <list-item>Ozone Layer Protection</list-item>
+                <list-item>Ship Pollution</list-item>
+                <list-item>Wetlands</list-item>
             </list-detail>
-            <detail name="signed, but not ratified"></detail>
+            <detail name="signed, but not ratified">none of the selected agreements</detail>
         </nested-detail>
         <nested-detail name="Elevation">
-            <detail name="mean-elevation"></detail>
-            <detail name="lowest point"></detail>
-            <detail name="highest point"></detail>
+            <detail name="mean-elevation">91 m</detail>
+            <detail name="lowest point">Mediterranean Sea 0 m</detail>
+            <detail name="highest point">Mount Olympus 1,951 m</detail>
         </nested-detail>
     </section>
     <section name="People and society">
-        <detail name="Population"></detail>
+        <detail name="Population">1,266,676 (July 2020 est.)</detail>
         <list-detail name="Ethnic groups">
-            
+            <list-item>Greek 98.8%</list-item>
+            <list-item>other 1% (includes Maronite</list-item>
+            <list-item>Armenian</list-item>
+            <list-item>Turkish-Cypriot)</list-item>
+            <list-item>unspecified 0.2% (2011 est.)</list-item>
         </list-detail>
         <list-detail name="Languages">
-            <list-item></list-item>
+            <list-item>Greek (official) 80.9%</list-item>
+            <list-item>Turkish (official) 0.2%</list-item>
+            <list-item>English 4.1%</list-item>
+            <list-item>Romanian 2.9%</list-item>
+            <list-item>Russian 2.5%</list-item>
+            <list-item>Bulgarian 2.2%</list-item>
+            <list-item>Arabic 1.2%</list-item>
+            <list-item>Filipino 1.1%</list-item>
+            <list-item>other 4.3%</list-item>
+            <list-item>unspecified 0.6% (2011 est.)</list-item>
         </list-detail>
-        <detail name="Religions"></detail>
-        <detail name="Population growth rate"></detail>
-        <detail name="Birth rate"></detail>
-        <detail name="Death rate"></detail>
-        <detail name="Net migration rate"></detail>
-        <detail name="Population distribution"></detail>
-        <detail name="Mother's mean age at first birth"></detail>
-        <detail name="Maternal mortality rate"></detail>
-        <detail name="Total fertility rate"></detail>
-        <detail name="Contraceptive prevalence rate"></detail>
-        <detail name="Health expenditures"></detail>
-        <detail name="Physicians density"></detail>
-        <detail name="Hospital bed density"></detail>
+        <list-detail name="Religions">
+            <list-item>Orthodox Christian 89.1%</list-item>
+            <list-item>Roman Catholic 2.9%</list-item>
+            <list-item>Protestant/Anglican 2%</list-item>
+            <list-item>Muslim 1.8%</list-item>
+            <list-item>Buddhist 1%</list-item>
+            <list-item>other (includes Maronite</list-item>
+            <list-item>Armenian Church</list-item>
+            <list-item>Hindu) 1.4%</list-item>
+            <list-item>unknown 1.1%</list-item>
+            <list-item>none/atheist 0.6% (2011 est.)</list-item>
+        </list-detail>
+        <detail name="Population growth rate">1.15% (2020 est.)</detail>
+        <detail name="Birth rate">10.9 births/1,000 population (2020 est.)</detail>
+        <detail name="Death rate">7 deaths/1,000 population (2020 est.)</detail>
+        <detail name="Net migration rate">7.6 migrant(s)/1,000 population (2020 est.)</detail>
+        <detail name="Population distribution">population concentrated in central Nicosia and in the major cities of the south: Paphos, Limassol, and Larnaca</detail>
+        <detail name="Mother's mean age at first birth">28.8 years (2014 est.)</detail>
+        <detail name="Maternal mortality rate">6 deaths/100,000 live births (2017 est.)</detail>
+        <detail name="Total fertility rate">1.48 children born/woman (2020 est.)</detail>
+        <detail name="Health expenditures">6.7% (2017)</detail>
+        <detail name="Physicians density">1.95 physicians/1,000 population (2016)</detail>
+        <detail name="Hospital bed density">3.4 beds/1,000 population (2017)</detail>
         <list-detail name="Urban areas">
             
         </list-detail>
-        <detail name="HIV/AIDS - adult prevalence rate"></detail>
-        <detail name="HIV/AIDS - people living with HIV/AIDS"></detail>
-        <detail name="HIV/AIDS - deaths"></detail>
-        <detail name="Obesity - adult prevalence rate"></detail>
-        <detail name="Children under the age of 5 years underweight"></detail>
-        <detail name="Education expenditures"></detail>
+        <detail name="HIV/AIDS - adult prevalence rate">0.1% (2017 est.)</detail>
+        <detail name="HIV/AIDS - people living with HIV/AIDS">1000 (2017 est.)</detail>
+        <detail name="HIV/AIDS - deaths">100 (2017 est.)</detail>
+        <detail name="Obesity - adult prevalence rate">21.8% (2016)</detail>
+        <detail name="Education expenditures">6.4% of GDP (2015)</detail>
         <nested-detail name="Nationality">
-            <detail name="noun"></detail>
-            <detail name="adjective"></detail>
+            <detail name="noun">Cypriot(s)</detail>
+            <detail name="adjective">Cypriot</detail>
         </nested-detail>
         <nested-detail name="Dependency ratios">
-            <detail name="total dependency ratio"></detail>
-            <detail name="youth dependency ratio"></detail>
-            <detail name="elderly dependency ratio"></detail>
+            <detail name="total dependency ratio">44.9</detail>
+            <detail name="youth dependency ratio">24</detail>
+            <detail name="elderly dependency ratio">20.9</detail>
         </nested-detail>
         <nested-detail name="Median age">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">37.9 years</detail>
+            <detail name="male">36.7 years</detail>
+            <detail name="female">39.4 years (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Urbanization">
-            <detail name="urban population"></detail>
-            <detail name="rate of urbanization"></detail>
+            <detail name="urban population">66.8% of total population (2020)</detail>
+            <detail name="rate of urbanization">0.75% annual rate of change (2015-20 est.)</detail>
         </nested-detail>
         <nested-detail name="Infant mortality rate">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">7.4 deaths/1,000 live births</detail>
+            <detail name="male">8.6 deaths/1,000 live births</detail>
+            <detail name="female">6.1 deaths/1,000 live births (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="Life expectancy at birth">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
-        </nested-detail>
-        <nested-detail name="Major infectious diseases">
-            <detail name="disease"></detail>
-            <detail name="note"></detail>
+            <detail name="total">79.3 years</detail>
+            <detail name="male">76.4 years</detail>
+            <detail name="female">82.2 years (2020 est.)</detail>
         </nested-detail>
         <nested-detail name="School life expectancy (primary to tertiary education)">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">15 years</detail>
+            <detail name="male">15 years</detail>
+            <detail name="female">15 years</detail>
         </nested-detail>
         <nested-detail name="Unemployment, youth ages 15-24">
-            <detail name="total"></detail>
-            <detail name="male"></detail>
-            <detail name="female"></detail>
+            <detail name="total">20.2%</detail>
+            <detail name="male">25%</detail>
+            <detail name="female">16.2%</detail>
         </nested-detail>
         <histogram name="Age structure" unit="%">
-            <entry from_age="0" to_age="14"></entry>
-            <entry from_age="15" to_age="24"></entry>
-            <entry from_age="25" to_age="54"></entry>
-            <entry from_age="55" to_age="64"></entry>
-            <entry from_age="65"></entry>
+            <entry from_age="0" to_age="14">15.69% (male 102,095/female 96,676)</entry>
+            <entry from_age="15" to_age="24">12.29% (male 84,832/female 70,879)</entry>
+            <entry from_age="25" to_age="54">47.12% (male 316,710/female 280,167)</entry>
+            <entry from_age="55" to_age="64">11.92% (male 72,476/female 78,511)</entry>
+            <entry from_age="65">12.97% (male 71,053/female 93,277) (2020 est.)</entry>
         </histogram>
         <histogram name="Sex ratio">
-            <entry from_age="0" to_age="0"></entry>
-            <entry from_age="0" to_age="14"></entry>
-            <entry from_age="15" to_age="24"></entry>
-            <entry from_age="25" to_age="54"></entry>
-            <entry from_age="55" to_age="64"></entry>
-            <entry from_age="65"></entry>
-            <entry></entry>
+            <entry from_age="0" to_age="0">1.05 male(s)/female</entry>
+            <entry from_age="0" to_age="14">1.06 male(s)/female</entry>
+            <entry from_age="15" to_age="24">1.2 male(s)/female</entry>
+            <entry from_age="25" to_age="54">1.13 male(s)/female</entry>
+            <entry from_age="55" to_age="64">0.92 male(s)/female</entry>
+            <entry from_age="65">0.76 male(s)/female</entry>
+            <entry>1.05 male(s)/female (2020 est.)</entry>
         </histogram>
     </section>
     <section name="Government">
-        <detail name="Government type"></detail>
+        <detail name="Government type">Republic of Cyprus - presidential republic; "Turkish Republic of Northern Cyprus" (self-declared) - parliamentary republic with enhanced presidency</detail>
         <list-detail name="Administrative divisions">
-            
+            <list-item>Ammochostos (Famagusta)</list-item>
+            <list-item>Keryneia (Kyrenia)</list-item>
+            <list-item>Larnaka (Larnaca</list-item>
+            <list-item>Lefkosia </list-item>
+            <list-item>Lemesos (Limassol)</list-item>
+            <list-item>Pafos (Paphos)</list-item>
+            <list-item>Gazimagusa (Famagusta)</list-item>
+            <list-item>Girne (Kyrenia)</list-item>
+            <list-item>Guzelyurt (Morphou)</list-item>
+            <list-item>Iskele (Trikomo)</list-item>
+            <list-item>Lefkosa (Nicosia)</list-item>
         </list-detail>
         <list-detail name="Independence">
-            
+            <list-item>16 August 1960 (from the UK)</list-item>
+            <list-item>Turkish Cypriots proclaimed self-rule on 13 February 1975 and independence in 1983, but these proclamations are recognized only by Turkey</list-item>
         </list-detail>
-        <detail name="National holiday"></detail>
-        <detail name="Legal system"></detail>
-        <detail name="International law organization participation"></detail>
-        <detail name="Suffrage"></detail>
+        <detail name="National holiday">Independence Day, 1 October (1960); note - Turkish Cypriots celebrate 15 November (1983) as "Republic Day"</detail>
+        <detail name="Legal system">mixed legal system of English common law and civil law with European law supremacy</detail>
+        <detail name="International law organization participation">accepts compulsory ICJ jurisdiction with reservations; accepts ICC jurisdiction</detail>
+        <detail name="Suffrage">18 years of age; universal</detail>
         <list-detail name="International organization participation">
-            
-            
+            <list-item>Australia Group</list-item>
+            <list-item>C</list-item>
+            <list-item>CD</list-item>
+            <list-item>CE</list-item>
+            <list-item>EBRD</list-item>
+            <list-item>ECB</list-item>
+            <list-item>EIB</list-item>
+            <list-item>EMU</list-item>
+            <list-item>EU</list-item>
+            <list-item>FAO</list-item>
+            <list-item>IAEA</list-item>
+            <list-item>IBRD</list-item>
+            <list-item>ICAO</list-item>
+            <list-item>ICC (national committees)</list-item>
+            <list-item>ICCt</list-item>
+            <list-item>ICRM</list-item>
+            <list-item>IDA</list-item>
+            <list-item>IFAD</list-item>
+            <list-item>IFC</list-item>
+            <list-item>IFRCS</list-item>
+            <list-item>IHO</list-item>
+            <list-item>ILO</list-item>
+            <list-item>IMF</list-item>
+            <list-item>IMO</list-item>
+            <list-item>IMSO</list-item>
+            <list-item>Interpol</list-item>
+            <list-item>IOC</list-item>
+            <list-item>IOM</list-item>
+            <list-item>IPU</list-item>
+            <list-item>ISO</list-item>
+            <list-item>ITSO</list-item>
+            <list-item>ITU</list-item>
+            <list-item>ITUC (NGOs)</list-item>
+            <list-item>MIGA</list-item>
+            <list-item>NAM</list-item>
+            <list-item>NSG</list-item>
+            <list-item>OAS (observer)</list-item>
+            <list-item>OIF</list-item>
+            <list-item>OPCW</list-item>
+            <list-item>OSCE</list-item>
+            <list-item>PCA</list-item>
+            <list-item>UN</list-item>
+            <list-item>UNCTAD</list-item>
+            <list-item>UNESCO</list-item>
+            <list-item>UNHCR</list-item>
+            <list-item>UNIDO</list-item>
+            <list-item>UNIFIL</list-item>
+            <list-item>UNWTO</list-item>
+            <list-item>UPU</list-item>
+            <list-item>WCO</list-item>
+            <list-item>WFTU (NGOs)</list-item>
+            <list-item>WHO</list-item>
+            <list-item>WIPO</list-item>
+            <list-item>WMO</list-item>
+            <list-item>WTO</list-item>           
         </list-detail>
-        <detail name="Flag description"></detail>
+        <detail name="Flag description">centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities</detail>
         <list-detail name="National symbol(s)">
-            
+            <list-item>Cypriot mouflon (wild sheep)</list-item>
+            <list-item>white dove; national colors: blue, white</list-item>
         </list-detail>
         <nested-detail name="Country name">
-            <detail name="conventional long form"></detail>
-            <detail name="conventional short form"></detail>
-            <detail name="local long form"></detail>
-            <detail name="local short form"></detail>
-            <detail name="etymology"></detail>
+            <detail name="conventional long form">Republic of Cyprus</detail>
+            <detail name="conventional short form">Cyprus</detail>
+            <detail name="local long form">Kypriaki Dimokratia/Kibris Cumhuriyeti</detail>
+            <detail name="local short form">Kypros/Kibris</detail>
+            <detail name="etymology">the derivation of the name "Cyprus" is unknown, but the extensive mining of copper metal on the island in antiquity gave rise to the Latin word "cuprum" for copper</detail>
         </nested-detail>
         <nested-detail name="Capital">
-            <detail name="name"></detail>
-            <detail name="geographic coordinates"></detail>
-            <detail name="time difference"></detail>
-            <detail name="etymology"></detail>
+            <detail name="name">Nicosia (Lefkosia/Lefkosa)</detail>
+            <detail name="geographic coordinates">35 10 N, 33 22 E</detail>
+            <detail name="time difference">UTC+2 (7 hours ahead of Washington, DC, during Standard Time)</detail>
+            <detail name="etymology">a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean "White City"; the Greek name may derive from the Greek phrase "leuke ousia" ("white estate")</detail>
         </nested-detail>
         <nested-detail name="Constitution">
-            <detail name="history"></detail>
-            <detail name="amendments"></detail>
+            <detail name="history">ratified 16 August 1960; note - in 1963, the constitution was partly suspended as Turkish Cypriots withdrew from the government; Turkish-held territory in 1983 was declared the "Turkish Republic of Northern Cyprus" ("TRNC"); in 1985, the "TRNC" approved its own constitution</detail>
+            <detail name="amendments">constitution of the Republic of Cyprus - proposed by the House of Representatives; passage requires at least two-thirds majority vote of the total membership of the "Greek Community" and the "Turkish Community"; however, all seats of Turkish Cypriot members have remained vacant since 1964; amended 10 times, last in 2016
+                constitution of the “Turkish Republic of Northern Cyprus” - proposed by at least 10 members of the "Assembly of the Republic"; passage requires at least two-thirds majority vote of the total Assembly membership and approval by referendum; amended 2014</detail>
         </nested-detail>
         <nested-detail name="Citizenship">
-            <detail name="citizenship by birth"></detail>
-            <detail name="citizenship by descent only"></detail>
-            <detail name="dual citizenship recognized"></detail>
-            <detail name="residency requirement for naturalization"></detail>
+            <detail name="citizenship by birth">no</detail>
+            <detail name="citizenship by descent only">at least one parent must be a citizen of Cyprus</detail>
+            <detail name="dual citizenship recognized">yes</detail>
+            <detail name="residency requirement for naturalization">7 years</detail>
         </nested-detail>
         <nested-detail name="Executive branch">
-            <detail name="chief of state"></detail>
-            <detail name="head of government"></detail>
-            <detail name="cabinet"></detail>
-            <detail name="elections/appointments"></detail>
+            <detail name="chief of state">President  Nikos ANASTASIADIS (since 28 February 2013); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government</detail>
+            <detail name="head of government">President Nikos ANASTASIADIS (since 28 February 2013)</detail>
+            <detail name="cabinet">Council of Ministers appointed by the president; note - under the 1960 constitution, 3 of the ministerial posts reserved for Turkish Cypriots, appointed by the vice president; positions currently filled by Greek Cypriots</detail>
+            <detail name="elections/appointments">president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 28 January 2018 with a runoff on 4 February 2018 (next to be held in February 2023)</detail>
         </nested-detail>
         <nested-detail name="Legislative branch">
             <detail name="description">
-                
+                area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a hybrid d'Hondt method with voter preferences for individual candidates
             </detail>
             <detail name="elections">
-            
+                area under government control: last held on 22 May 2016 (next to be held in May 2021); area administered by Turkish Cypriots: last held on 7 January 2018 (next to be held in 2023, unless early election called)
             </detail>
             <detail name="election results">
-            
+                area under government control: House of Representatives - percent of vote by party - DISY 30.7%, AKEL 25.7%, DIKO 14.5%, KS-EDEK 6.2%, SP 6% Solidarity Movement 5.2%, other 11.7%; seats by party - DISY 18, AKEL 16, DIKO 9, KS-EDEK 3, Citizen's Alliance 3 (2 left the party in 2017 and 2018 due to disagreements over the party's policy regarding the presidential election campaign; one joined DIKO and the other became an independent MP), Solidarity Movement 3, other 4; area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP 8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9, DP 3, TDP 3, YDP 2
             </detail>
             <detail name="note"></detail>
         </nested-detail>
         <nested-detail name="Judicial branch">
-            <detail name="highest courts"></detail>
-            <detail name="judge selection and term of office"></detail>
-            <detail name="subordinate courts"></detail>
+            <detail name="highest courts">Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")</detail>
+            <detail name="judge selection and term of office">Republic of Cyprus Supreme Court judges appointed by the president of the republic upon the recommendation of the Supreme Court judges; judges can serve until age 68; "TRNC Supreme Court" judges appointed by the "Supreme Council of Judicature," a 12-member body of judges, the attorney general, appointees by the president of the "TRNC," and by the "Legislative Assembly," and members elected by the bar association; judge tenure NA</detail>
+            <detail name="subordinate courts">Republic of Cyprus district courts; Assize Courts; Administrative Court; specialized courts for issues relating to family, industrial disputes, the military, and rent control; "TRNC Assize Courts"; "district and family courts"</detail>
         </nested-detail>
         <nested-detail name="National anthem">
-            <detail name="name"></detail>
-            <detail name="lyrics/music"></detail>
-            <detail name="note"></detail>
+            <detail name="name">"Ymnos eis tin Eleftherian" (Hymn to Liberty)</detail>
+            <detail name="lyrics/music">Dionysios SOLOMOS/Nikolaos MANTZAROS</detail>
+            <detail name="note">adopted 1960; Cyprus adopted the Greek national anthem as its own; the Turkish Cypriot community in Cyprus uses the anthem of Turkey</detail>
         </nested-detail>
     </section>
     <section name="Economy">
         <detail name="Overview">
-            
+            The area of the Republic of Cyprus under government control has a market economy dominated by a services sector that accounts for more than four-fifths of GDP. Tourism, finance, shipping, and real estate have traditionally been the most important services. Cyprus has been a member of the EU since May 2004 and adopted the euro as its national currency in January 2008.
+
+            During the first five years of EU membership, the Cyprus economy grew at an average rate of about 4%, with unemployment between 2004 and 2008 averaging about 4%. However, the economy tipped into recession in 2009 as the ongoing global financial crisis and resulting low demand hit the tourism and construction sectors. An overextended banking sector with excessive exposure to Greek debt added to the contraction. Cyprus’ biggest two banks were among the largest holders of Greek bonds in Europe and had a substantial presence in Greece through bank branches and subsidiaries. Following numerous downgrades of its credit rating, Cyprus lost access to international capital markets in May 2011. In July 2012, Cyprus became the fifth euro-zone government to request an economic bailout program from the European Commission, European Central Bank and the International Monetary Fund - known collectively as the "Troika."
+
+            Shortly after the election of President Nikos ANASTASIADES in February 2013, Cyprus reached an agreement with the Troika on a $13 billion bailout that triggered a two-week bank closure and the imposition of capital controls that remained partially in place until April 2015. Cyprus' two largest banks merged and the combined entity was recapitalized through conversion of some large bank deposits to shares and imposition of losses on bank bondholders. As with other EU countries, the Troika conditioned the bailout on passing financial and structural reforms and privatizing state-owned enterprises. Despite downsizing and restructuring, the Cypriot financial sector remains burdened by the largest stock of non-performing loans in the euro zone, equal to nearly half of all loans. Since the bailout, Cyprus has received positive appraisals by the Troika and outperformed fiscal targets but has struggled to overcome political opposition to bailout-mandated legislation, particularly regarding privatizations. The rate of non-performing loans (NPLs) is still very high at around 49%, and growth would accelerate if Cypriot banks could increase the pace of resolution of the NPLs.
+
+            In October 2013, a US-Israeli consortium completed preliminary appraisals of hydrocarbon deposits in Cyprus’ exclusive economic zone (EEZ), which estimated gross mean reserves of about 130 billion cubic meters. Though exploration continues in Cyprus’ EEZ, no additional commercially exploitable reserves have been identified. Developing offshore hydrocarbon resources remains a critical component of the government’s economic recovery efforts, but development has been delayed as a result of regional developments and disagreements about exploitation methods.
         </detail>
-        <detail name="GDP (purchasing power parity)"></detail>
-        <detail name="GDP (official exchange rate)"></detail>
-        <detail name="GDP per capita"></detail>
-        <detail name="Gross national saving"></detail>
+        <detail name="GDP (purchasing power parity)">$31.78 billion</detail>
+        <detail name="GDP (official exchange rate)">$21.7 billion (2017 est.)</detail>
+        <detail name="GDP per capita">$37,200 (2017 est.)</detail>
+        <detail name="Gross national saving">13.7% of GDP (2017 est.)</detail>
         <list-detail name="Industries">
-        
+            <list-item>tourism</list-item>
+            <list-item>food and beverage processing</list-item>
+            <list-item>cement and gypsum</list-item>
+            <list-item>ship repair and refurbishment</list-item>
+            <list-item>textiles</list-item>
+            <list-item>light chemicals</list-item>
+            <list-item>metal products</list-item>
+            <list-item>wood</list-item>
+            <list-item>paper</list-item>
+            <list-item>stone and clay products</list-item>
         </list-detail>
-        <detail name="Industrial production growth rate"></detail>
-        <detail name="Labor force"></detail>
-        <detail name="Unemployment rate"></detail>
-        <detail name="Population below poverty line"></detail>
-        <detail name="Taxes and other revenues"></detail>
-        <detail name="Budget surplus (+) or deficit (-)"></detail>
-        <detail name="Public debt"></detail>
-        <detail name="Fiscal year"></detail>
-        <detail name="Inflation rate (consumer prices)"></detail>
-        <detail name="Exports"></detail>
+        <detail name="Industrial production growth rate">13.4% (2017 est.)</detail>
+        <detail name="Labor force">426,600 (2017 est.)</detail>
+        <detail name="Unemployment rate">11.1% (2017 est.)</detail>
+        <detail name="Population below poverty line">NA</detail>
+        <detail name="Taxes and other revenues">39.9% (of GDP) (2017 est.)</detail>
+        <detail name="Budget surplus (+) or deficit (-)">1.8% (of GDP) (2017 est.)</detail>
+        <detail name="Public debt">97.5% of GDP (2017 est.)</detail>
+        <detail name="Fiscal year">calendar year</detail>
+        <detail name="Inflation rate (consumer prices)">0.7% (2017 est.)</detail>
+        <detail name="Exports">$2.805 billion (2017 est.)</detail>
         <list-detail name="Export commodities">
-        
+            <list-item>citrus</list-item>
+            <list-item>potatoes</list-item>
+            <list-item>pharmaceuticals</list-item>
+            <list-item>cement</list-item>
+            <list-item>clothing</list-item>
         </list-detail>
         <list-detail name="Export partners">
-        
+            <list-item>Libya 9.4%</list-item>
+            <list-item>Greece 7.7%</list-item>
+            <list-item>Norway 6.7%</list-item>
+            <list-item>UK 5.3%</list-item>
+            <list-item>Germany 4.1% (2017)</list-item>
         </list-detail>
-        <detail name="Imports"></detail>
+        <detail name="Imports">$7.935 billion (2017 est.)</detail>
         <list-detail name="Import commodities">
-        
+            <list-item>consumer goods</list-item>
+            <list-item>petroleum and lubricants</list-item>
+            <list-item>machinery</list-item>
+            <list-item>transport equipment</list-item>
         </list-detail>
         <list-detail name="Import partners">
-        
+            <list-item>Greece 19%</list-item>
+            <list-item>Italy 7.5%</list-item>
+            <list-item>China 7.4%</list-item>
+            <list-item>South Korea 7.3%</list-item>
+            <list-item>Germany 7%</list-item>
+            <list-item>Netherlands 5.1%</list-item>
+            <list-item>UK 5%</list-item>
+            <list-item>Israel 4.1% (2017)</list-item>
         </list-detail>
-        <detail name="Reserves of foreign exchange and gold"></detail>
-        <detail name="Debt - external"></detail>
-        <detail name="Stock of direct foreign investment - at home"></detail>
-        <detail name="Stock of direct foreign investment - abroad"></detail>
+        <detail name="Reserves of foreign exchange and gold">$888.2 million (31 December 2017 est.)</detail>
+        <detail name="Debt - external">$95.28 billion (31 December 2013 est.)</detail>
         <nested-detail name="GDP - composition, by end use">
-            <detail name="household consumption"></detail>
-            <detail name="government consumption"></detail>
-            <detail name="investment in fixed capital"></detail>
-            <detail name="investment in inventories"></detail>
-            <detail name="exports of goods and services"></detail>
-            <detail name="imports of goods and services"></detail>
+            <detail name="household consumption">68.7% (2017 est.)</detail>
+            <detail name="government consumption">14.9% (2017 est.)</detail>
+            <detail name="investment in fixed capital">21.1% (2017 est.)</detail>
+            <detail name="investment in inventories">-0.7% (2017 est.)</detail>
+            <detail name="exports of goods and services">63.8% (2017 est.)</detail>
+            <detail name="imports of goods and services">-67.8% (2017 est.)</detail>
         </nested-detail>
         <nested-detail name="GDP - composition, by sector of origin:">
-            <detail name="agriculture"></detail>
-            <detail name="industry"></detail>
-            <detail name="services"></detail>
+            <detail name="agriculture">2% (2017 est.)</detail>
+            <detail name="industry">12.5% (2017 est.)</detail>
+            <detail name="services">85.5% (2017 est.)</detail>
         </nested-detail>
         <nested-detail name="Labor force - by occupation">
-            <detail name="agriculture"></detail>
-            <detail name="industry"></detail>
-            <detail name="services"></detail>
+            <detail name="agriculture">3.8%</detail>
+            <detail name="industry">15.2%</detail>
+            <detail name="services">81% (2014 est.)</detail>
         </nested-detail>
         <nested-detail name="Household income or consumption by percentage share">
-            <detail name="lowest 10%"></detail>
-            <detail name="highest 10%"></detail>
+            <detail name="lowest 10%">3.3%</detail>
+            <detail name="highest 10%">28.8% (2014)</detail>
         </nested-detail>
         <nested-detail name="Budget">
-            <detail name="revenues"></detail>
-            <detail name="expenditures"></detail>
+            <detail name="revenues">8.663 billion (2017 est.)</detail>
+            <detail name="expenditures">8.275 billion (2017 est.)</detail>
         </nested-detail>
     </section>
     <section name="Energy">
-        <detail name="Electricity - access"></detail>
-        <detail name="Electricity - production"></detail>
-        <detail name="Electricity - consumption"></detail>
-        <detail name="Electricity - exports"></detail>
-        <detail name="Electricity - imports"></detail>
-        <detail name="Electricity - installed generating capacity"></detail>
-        <detail name="Electricity - from fossil fuels"></detail>
-        <detail name="Electricity - from nuclear fuels"></detail>
-        <detail name="Electricity - from hydroelectric plants"></detail>
-        <detail name="Electricity - from other renewable sources"></detail>
-        <detail name="Crude oil - production"></detail>
-        <detail name="Crude oil - exports"></detail>
-        <detail name="Crude oil - imports"></detail>
-        <detail name="Crude oil - proved reserves"></detail>
-        <detail name="Refined petroleum products - production"></detail>
-        <detail name="Refined petroleum products - consumption"></detail>
-        <detail name="Refined petroleum products - exports"></detail>
-        <detail name="Refined petroleum products - imports"></detail>
-        <detail name="Natural gas - production"></detail>
-        <detail name="Natural gas - consumption"></detail>
-        <detail name="Natural gas - exports"></detail>
-        <detail name="Natural gas - imports"></detail>
-        <detail name="Natural gas - proved reserves"></detail>
-        <detail name="Carbon dioxide emissions from consumption of energy"></detail>
+        <detail name="Electricity - access">100% (2016)</detail>
+        <detail name="Electricity - production">4.618 billion kWh (2016 est.)</detail>
+        <detail name="Electricity - consumption">4.355 billion kWh (2016 est.)</detail>
+        <detail name="Electricity - exports">0 kWh (2016 est.)</detail>
+        <detail name="Electricity - imports">0 kWh (2016 est.)</detail>
+        <detail name="Electricity - installed generating capacity">1.77 million kW (2016 est.)</detail>
+        <detail name="Electricity - from fossil fuels">85% of total installed capacity (2016 est.)</detail>
+        <detail name="Electricity - from nuclear fuels">0% of total installed capacity (2017 est.)</detail>
+        <detail name="Electricity - from hydroelectric plants">0% of total installed capacity (2017 est.)</detail>
+        <detail name="Electricity - from other renewable sources">15% of total installed capacity (2017 est.)</detail>
+        <detail name="Crude oil - production">0 bbl/day (2018 est.)</detail>
+        <detail name="Crude oil - exports">0 bbl/day (2015 est.)</detail>
+        <detail name="Crude oil - imports">0 bbl/day (2015 est.)</detail>
+        <detail name="Crude oil - proved reserves">0 bbl (1 January 2018 est.)</detail>
+        <detail name="Refined petroleum products - production">0 bbl/day (2015 est.)</detail>
+        <detail name="Refined petroleum products - consumption">49,000 bbl/day (2016 est.)</detail>
+        <detail name="Refined petroleum products - exports">500 bbl/day (2015 est.)</detail>
+        <detail name="Refined petroleum products - imports">49,240 bbl/day (2015 est.)</detail>
+        <detail name="Natural gas - production">0 cu m (2017 est.)</detail>
+        <detail name="Natural gas - consumption">0 cu m (2017 est.)</detail>
+        <detail name="Natural gas - exports">0 cu m (2017 est.)</detail>
+        <detail name="Natural gas - imports">0 cu m (2017 est.)</detail>
+        <detail name="Natural gas - proved reserves">141.6 billion cu m (1 January 2014 est.)</detail>
+        <detail name="Carbon dioxide emissions from consumption of energy">7.72 million Mt (2017 est.)</detail>
     </section>
     <section name="Communications">
-        <detail name="Broadcast media"></detail>
-        <detail name="Internet country code"></detail>
+        <detail name="Broadcast media">mixture of state and privately run TV and radio services; the public broadcaster operates 2 TV channels and 4 radio stations; 6 private TV broadcasters, satellite and cable TV services including telecasts from Greece and Turkey, and a number of private radio stations are available; in areas administered by Turkish Cypriots, there are 2 public TV stations, 4 public radio stations, and 7 privately owned TV and 21 radio broadcast stations plus 6 radio and 4 TV channels of local universities, plus 1 radio station of military, security forces and 1 radio station of civil defense cooperation, as well as relay stations from Turkey (2019)</detail>
+        <detail name="Internet country code">.cy</detail>
         <nested-detail name="Telephones - fixed lines">
-            <detail name="total subscriptions"></detail>
-            <detail name="subscriptions per 100 inhabitants"></detail>
+            <detail name="total subscriptions">311,559</detail>
+            <detail name="subscriptions per 100 inhabitants">25 (2018 est.)</detail>
         </nested-detail>
         <nested-detail name="Telephones - mobile cellular">
-            <detail name="total"></detail>
-            <detail name="subscriptions per 100 inhabitants"></detail>
+            <detail name="total">1,200,378</detail>
+            <detail name="subscriptions per 100 inhabitants">97 (2018 est.)</detail>
         </nested-detail>
         <nested-detail name="Internet users">
-            <detail name="total"></detail>
-            <detail name="percent of population"></detail>
+            <detail name="total">1,044,473</detail>
+            <detail name="percent of population">84.43% (July 2018 est.)</detail>
         </nested-detail>
     </section>
     <section name="Transportation">
         <detail name="Civil aircraft registration country code prefix"></detail>
-        <detail name="Airports"></detail>
-        <detail name="Heliports"></detail>
+        <detail name="Airports">15 (2013)</detail>
+        <detail name="Heliports">9 (2013)</detail>
         <list-detail name="Pipelines">
-        
+            <list-item>0 km oil</list-item>
         </list-detail>
         <detail name="Waterways"></detail>
         <nested-detail name="National air transport system">
-            <detail name="number of registered air carriers"></detail>
-            <detail name="inventory of registered aircraft operated by air carriers"></detail>
-            <detail name="annual passenger traffic on registered air carriers"></detail>
-            <detail name="annual freight traffic on registered air carriers"></detail>
+            <detail name="number of registered air carriers">2 (2020)</detail>
+            <detail name="inventory of registered aircraft operated by air carriers">6</detail>
+            <detail name="annual passenger traffic on registered air carriers">401,408 (2018)</detail>
+            <detail name="annual freight traffic on registered air carriers">20,000 mt-km (2018)</detail>
         </nested-detail>
         <nested-detail name="Airports - with paved runways">
-            <detail name="total"></detail>
-            <detail name="over 3,047 m"></detail>
-            <detail name="2,438 to 3,047 m"></detail>
-            <detail name="1,524 to 2,437 m"></detail>
-            <detail name="914 to 1,523 m"></detail>
-            <detail name="under 914 m"></detail>
+            <detail name="total">13 (2017)</detail>
+            <detail name="2,438 to 3,047 m">7 (2017)</detail>
+            <detail name="1,524 to 2,437 m">2 (2017)</detail>
+            <detail name="914 to 1,523 m">3 (2017)</detail>
+            <detail name="under 914 m">1 (2017)</detail>
         </nested-detail>
         <nested-detail name="Airports - with unpaved runways">
-            <detail name="total"></detail>
-            <detail name="914 to 1,523 m"></detail>
-            <detail name="under 914 m"></detail>
-        </nested-detail>
-        <nested-detail name="Railways">
-            <detail name="total"></detail>
-            <detail name="standard gauge"></detail>
-            <detail name="narrow gauge"></detail>
-            <list-detail name="dual gauge">
-           
-            </list-detail>
+            <detail name="total">2 (2013)</detail>
+            <detail name="under 914 m">2 (2013)</detail>
         </nested-detail>
         <nested-detail name="Roadways">
-            <detail name="total"></detail>
-            <detail name="paved"></detail>
-            <detail name="unpaved"></detail>
+            <detail name="total">19,901 km (2016)</detail>
+            <detail name="paved">8,631 km (2016)</detail>
+            <detail name="unpaved">4,270 km (2016)</detail>
         </nested-detail>
         <nested-detail name="Merchant marine">
-            <detail name="total"></detail>
+            <detail name="total">1,039</detail>
             <list-detail name="by type">
-             
+                <list-item>bulk carrier 304</list-item>
+                <list-item>container ship 190</list-item>
+                <list-item>general cargo 183</list-item>
+                <list-item>oil tanker 42</list-item>
+                <list-item>other 320 (2019)</list-item>
             </list-detail>
         </nested-detail>
         <nested-detail name="Ports and terminals">
             <list-detail name="major seaport(s)">
-            
+                <list-item>area under government control: Larnaca, Limassol, Vasilikos</list-item>
+                <list-item>area administered by Turkish Cypriots: Famagusta, Kyrenia</list-item>
             </list-detail>
         </nested-detail>
     </section>
     <section name="Military and security">
-        <detail name="Military expenditures"></detail>
+        <detail name="Military expenditures">1.6% of GDP (2019)</detail>
         <list-detail name="Military service age and obligation">
-          
+            <list-item>Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males</list-item>
+            <list-item>17 years of age for voluntary service; 12-month service obligation (2019)</list-item>
         </list-detail>
     </section>
     <section name="Transnational issues">
-        <detail name="Disputes - international"></detail>
+        <detail name="Disputes - international">hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</detail>
         <nested-detail name="Refugees and internally displaced persons">
-            <detail name="stateless persons"></detail>
+            <detail name="refugees (country of origin)">6,259 (Syria) (2018)</detail>
+            <detail name="IDPs">228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2019)</detail>
+            <detail name="note">10,690 estimated refugee and migrant arrivals (January 2015-November 2019)</detail>
         </nested-detail>
     </section>
 </country>
