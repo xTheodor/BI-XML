@@ -4,12 +4,12 @@
     <!ENTITY japan SYSTEM "data/japan.xml">
     <!ENTITY korea_south SYSTEM "data/korea_south.xml">
     <!ENTITY cyprus SYSTEM "data/cyprus.xml">
-    <!ENTITY antarctica SYSTEM "data/antarctica.xml">
+    <!ENTITY antarctica SYSTEM "data/czechia.xml">
 ]>
 
 <countries>
     &japan;
     &korea_south;
     &cyprus;
-    &antarctica;
+    &czechia;
 </countries>
