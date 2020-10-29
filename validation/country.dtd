@@ -38,5 +38,5 @@
 
 <!ELEMENT entry (#PCDATA)>
 <!ATTLIST entry
-  from-age CDATA #IMPLIED
-  to-age CDATA #IMPLIED>
+  from_age CDATA #IMPLIED
+  to_age CDATA #IMPLIED>
