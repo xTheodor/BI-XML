@@ -6,6 +6,7 @@
 
 - `data`: XML files (single countries files and `contries.xml`)
 - `validation`: DTD validation
+- `xsl/join`: Join single countries in to one XML file
 
 ## Assignment (in Czech)
 
