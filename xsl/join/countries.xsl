@@ -3,10 +3,10 @@
     <xsl:output method="xml" encoding="utf-8" indent="yes"/>
     <xsl:template match="/countries">
         <xsl:copy>
-            <xsl:apply-templates select="document('../data/korea_south.xml')"/>
-            <xsl:apply-templates select="document('../data/japan.xml')"/>
-            <xsl:apply-templates select="document('../data/czechia.xml')"/>
-            <xsl:apply-templates select="document('../data/cyprus.xml')"/>
+            <xsl:apply-templates select="document('../../data/korea_south.xml')"/>
+            <xsl:apply-templates select="document('../../data/japan.xml')"/>
+            <xsl:apply-templates select="document('../../data/czechia.xml')"/>
+            <xsl:apply-templates select="document('../../data/cyprus.xml')"/>
         </xsl:copy>
     </xsl:template>
 
