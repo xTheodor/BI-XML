@@ -1,0 +1,45 @@
+text-not-empty = xsd:string {
+  pattern=".*[\S]+.*"
+}
+
+start = element country {
+    attribute id {xsd:ID},
+    attribute from {xsd:anyURI},
+    element introduction {
+        element name {text-not-empty},
+        element background {
+            element paragraph {text-not-empty}+
+        }
+    },
+    element section {
+        attribute name {text-not-empty},
+        (detail | nested-detail | list-detail | histogram)+
+    }+
+}
+
+detail = element detail {
+  attribute name {text-not-empty},
+  text-not-empty
+}
+
+nested-detail = element nested-detail {
+    attribute name {text-not-empty},
+    (detail | list-detail)+
+}
+
+list-detail = element list-detail {
+    attribute name {text-not-empty},
+    element list-item {
+        text-not-empty
+    }+
+}
+
+histogram = element histogram {
+   attribute name { text-not-empty },
+   attribute unit { text-not-empty }?,
+   element entry {
+     attribute from_age { xsd:integer }?,
+     attribute to_age { xsd:integer }?,
+     xsd:double
+   }+
+}
