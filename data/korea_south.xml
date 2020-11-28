@@ -162,20 +162,20 @@ wide coastal plains in west and south</detail>
             <detail name="female">10%</detail>
         </nested-detail>
         <histogram name="Age structure" unit="%">
-            <entry from_age="0" to_age="14">12.77% (male 3,401,815/female 3,219,589)</entry>
-            <entry from_age="15" to_age="24">11.18% (male 3,030,027/female 2,764,860)</entry>
-            <entry from_age="25" to_age="54">44.66% (male 12,043,626/female 11,106,927)</entry>
-            <entry from_age="55" to_age="64">15.47% (male 3,927,496/female 4,089,033)</entry>
-            <entry from_age="65">15.92% (male 3,572,855/female 4,678,882) (2020 est.)</entry>
+            <entry from_age="0" to_age="14">12.77</entry>
+            <entry from_age="15" to_age="24">11.18</entry>
+            <entry from_age="25" to_age="54">44.66</entry>
+            <entry from_age="55" to_age="64">15.47</entry>
+            <entry from_age="65">15.92</entry>
         </histogram>
-        <histogram name="Sex ratio">
-            <entry from_age="0" to_age="0">1.05 male(s)/female</entry>
-            <entry from_age="0" to_age="14">1.06 male(s)/female</entry>
-            <entry from_age="15" to_age="24">1.1 male(s)/female</entry>
-            <entry from_age="25" to_age="54">1.08 male(s)/female</entry>
-            <entry from_age="55" to_age="64">0.96 male(s)/female</entry>
-            <entry from_age="65">0.76 male(s)/female</entry>
-            <entry>1.01 male(s)/female (2020 est.)</entry>
+        <histogram name="Sex ratio" unit="%">
+            <entry from_age="0" to_age="0">1.05</entry>
+            <entry from_age="0" to_age="14">1.06</entry>
+            <entry from_age="15" to_age="24">1.1</entry>
+            <entry from_age="25" to_age="54">1.08</entry>
+            <entry from_age="55" to_age="64">0.96</entry>
+            <entry from_age="65">0.76</entry>
+            <entry>1.01</entry>
         </histogram>
     </section>
     <section name="Government">

@@ -153,20 +153,20 @@
             <detail name="female">7.2% (2018 est.)</detail>
         </nested-detail>
         <histogram name="Age structure" unit="%">
-            <entry from_age="0" to_age="14">15.17% (male 834,447/female 789,328)</entry>
-            <entry from_age="15" to_age="24">9.2% (male 508,329/female 475,846)</entry>
-            <entry from_age="25" to_age="54">43.29% (male 2,382,899/female 2,249,774)</entry>
-            <entry from_age="55" to_age="64">12.12% (male 636,357/female 660,748)</entry>
-            <entry from_age="65">20.23% (male 907,255/female 1,257,515) (2020 est.)</entry>
+            <entry from_age="0" to_age="14">15.17</entry>
+            <entry from_age="15" to_age="24">9.2</entry>
+            <entry from_age="25" to_age="54">43.29</entry>
+            <entry from_age="55" to_age="64">12.12</entry>
+            <entry from_age="65">20.23</entry>
         </histogram>
-        <histogram name="Sex ratio">
-            <entry from_age="0" to_age="0">1.05 male(s)/female</entry>
-            <entry from_age="0" to_age="14">1.06 male(s)/female</entry>
-            <entry from_age="15" to_age="24">1.07 male(s)/female</entry>
-            <entry from_age="25" to_age="54">1.06 male(s)/female</entry>
-            <entry from_age="55" to_age="64">0.96 male(s)/female</entry>
-            <entry from_age="65">0.72 male(s)/female</entry>
-            <entry>0.97 male(s)/female (2020 est.)</entry>
+        <histogram name="Sex ratio" unit="%">
+            <entry from_age="0" to_age="0">1.05</entry>
+            <entry from_age="0" to_age="14">1.06</entry>
+            <entry from_age="15" to_age="24">1.07</entry>
+            <entry from_age="25" to_age="54">1.06</entry>
+            <entry from_age="55" to_age="64">0.96</entry>
+            <entry from_age="65">0.72</entry>
+            <entry>0.97</entry>
         </histogram>
     </section>
     <section name="Government">
